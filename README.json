@@ -24,7 +24,7 @@
             "last_commit": "2026-08-06T22:47:30Z",
             "owner": "ocrmypdf",
             "repo": "OCRmyPDF",
-            "stars": 34427
+            "stars": 34431
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-08-06T00:46:50Z",
             "owner": "jsvine",
             "repo": "pdfplumber",
-            "stars": 10652
+            "stars": 10654
           }
         },
         {
@@ -105,10 +105,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T10:39:30Z",
+            "last_commit": "2026-08-13T09:14:58Z",
             "owner": "apache",
             "repo": "pdfbox",
-            "stars": 3102
+            "stars": 3103
           }
         },
         {
@@ -468,7 +468,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:09:19.274Z",
+    "last_updated": "2026-08-13T10:48:21.072Z",
     "original_repository": "tstanislawek/awesome-document-understanding",
     "original_repository_sha": "2ad3a0f037b0cdcbba90843069836a80bf1dd8a9",
     "enhanced_repository": "enhansome/enhansome-document-understanding",
