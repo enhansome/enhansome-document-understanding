@@ -24,7 +24,7 @@
             "last_commit": "2026-08-06T22:47:30Z",
             "owner": "ocrmypdf",
             "repo": "OCRmyPDF",
-            "stars": 34431
+            "stars": 34442
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-08-06T00:46:50Z",
             "owner": "jsvine",
             "repo": "pdfplumber",
-            "stars": 10654
+            "stars": 10661
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2024-08-15T06:26:34Z",
             "owner": "Layout-Parser",
             "repo": "layout-parser",
-            "stars": 5771
+            "stars": 5770
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2024-08-20T19:46:33Z",
             "owner": "pliang279",
             "repo": "awesome-multimodal-ml",
-            "stars": 6923
+            "stars": 6924
           }
         },
         {
@@ -468,7 +468,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T10:48:21.072Z",
+    "last_updated": "2026-08-14T10:44:04.690Z",
     "original_repository": "tstanislawek/awesome-document-understanding",
     "original_repository_sha": "2ad3a0f037b0cdcbba90843069836a80bf1dd8a9",
     "enhanced_repository": "enhansome/enhansome-document-understanding",
