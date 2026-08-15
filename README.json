@@ -24,7 +24,7 @@
             "last_commit": "2026-08-06T22:47:30Z",
             "owner": "ocrmypdf",
             "repo": "OCRmyPDF",
-            "stars": 34442
+            "stars": 34448
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-08-06T00:46:50Z",
             "owner": "jsvine",
             "repo": "pdfplumber",
-            "stars": 10661
+            "stars": 10662
           }
         },
         {
@@ -52,7 +52,7 @@
             "last_commit": "2026-03-13T13:46:54Z",
             "owner": "pdfminer",
             "repo": "pdfminer.six",
-            "stars": 7017
+            "stars": 7016
           }
         },
         {
@@ -91,10 +91,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T13:27:07Z",
+            "last_commit": "2026-08-15T08:14:26Z",
             "owner": "deepdoctection",
             "repo": "deepdoctection",
-            "stars": 3205
+            "stars": 3209
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2024-08-20T19:46:33Z",
             "owner": "pliang279",
             "repo": "awesome-multimodal-ml",
-            "stars": 6924
+            "stars": 6923
           }
         },
         {
@@ -320,7 +320,7 @@
             "last_commit": "2024-06-17T06:18:41Z",
             "owner": "HumanSignal",
             "repo": "awesome-data-labeling",
-            "stars": 4395
+            "stars": 4396
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2022-01-27T14:46:32Z",
             "owner": "roomylee",
             "repo": "awesome-relation-extraction",
-            "stars": 1226
+            "stars": 1224
           }
         },
         {
@@ -362,7 +362,7 @@
             "last_commit": "2023-04-20T07:55:24Z",
             "owner": "harpribot",
             "repo": "awesome-information-retrieval",
-            "stars": 1199
+            "stars": 1198
           }
         },
         {
@@ -404,7 +404,7 @@
             "last_commit": "2021-01-22T02:36:52Z",
             "owner": "thunlp",
             "repo": "LegalPapers",
-            "stars": 500
+            "stars": 499
           }
         },
         {
@@ -468,7 +468,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:44:04.690Z",
+    "last_updated": "2026-08-15T10:09:06.360Z",
     "original_repository": "tstanislawek/awesome-document-understanding",
     "original_repository_sha": "2ad3a0f037b0cdcbba90843069836a80bf1dd8a9",
     "enhanced_repository": "enhansome/enhansome-document-understanding",
