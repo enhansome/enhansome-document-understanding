@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-06T22:47:30Z",
+            "last_commit": "2026-08-18T07:07:50Z",
             "owner": "ocrmypdf",
             "repo": "OCRmyPDF",
-            "stars": 34472
+            "stars": 34478
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-08-06T00:46:50Z",
             "owner": "jsvine",
             "repo": "pdfplumber",
-            "stars": 10665
+            "stars": 10671
           }
         },
         {
@@ -94,7 +94,7 @@
             "last_commit": "2026-08-16T14:54:56Z",
             "owner": "deepdoctection",
             "repo": "deepdoctection",
-            "stars": 3216
+            "stars": 3219
           }
         },
         {
@@ -105,10 +105,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T18:52:10Z",
+            "last_commit": "2026-08-18T08:34:02Z",
             "owner": "apache",
             "repo": "pdfbox",
-            "stars": 3104
+            "stars": 3103
           }
         },
         {
@@ -119,10 +119,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-17T09:46:09Z",
+            "last_commit": "2026-08-18T01:15:07Z",
             "owner": "UglyToad",
             "repo": "PdfPig",
-            "stars": 2540
+            "stars": 2541
           }
         },
         {
@@ -133,7 +133,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T10:07:42Z",
+            "last_commit": "2026-08-17T18:36:30Z",
             "owner": "Open-Source-Legal",
             "repo": "OpenContracts",
             "stars": 1440
@@ -376,7 +376,7 @@
             "last_commit": "2024-11-05T08:32:10Z",
             "owner": "Liquid-Legal-Institute",
             "repo": "Legal-Text-Analytics",
-            "stars": 732
+            "stars": 733
           }
         },
         {
@@ -468,7 +468,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:18:01.373Z",
+    "last_updated": "2026-08-18T10:14:01.346Z",
     "original_repository": "tstanislawek/awesome-document-understanding",
     "original_repository_sha": "2ad3a0f037b0cdcbba90843069836a80bf1dd8a9",
     "enhanced_repository": "enhansome/enhansome-document-understanding",
