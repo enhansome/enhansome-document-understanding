@@ -19,7 +19,7 @@
                     "last_commit": "2026-08-18T23:58:51Z",
                     "owner": "ocrmypdf",
                     "repo": "OCRmyPDF",
-                    "stars": 34495
+                    "stars": 34497
                   }
                 },
                 {
@@ -106,7 +106,7 @@
                     "archived": false,
                     "id": 318103,
                     "language": "Java",
-                    "last_commit": "2026-08-19T09:04:40Z",
+                    "last_commit": "2026-08-19T12:04:36Z",
                     "owner": "apache",
                     "repo": "pdfbox",
                     "stars": 3103
@@ -121,7 +121,7 @@
                     "archived": false,
                     "id": 110156007,
                     "language": "C#",
-                    "last_commit": "2026-08-19T09:30:03Z",
+                    "last_commit": "2026-08-19T10:25:28Z",
                     "owner": "UglyToad",
                     "repo": "PdfPig",
                     "stars": 2543
@@ -470,7 +470,7 @@
             "last_commit": "2024-05-17T14:24:27Z",
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23503
+            "stars": 23504
           }
         },
         {
@@ -485,7 +485,7 @@
             "last_commit": "2026-08-12T19:22:45Z",
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20852
+            "stars": 20853
           }
         },
         {
@@ -568,8 +568,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:14:23.640Z",
+    "last_updated": "2026-08-19T12:29:01.988Z",
     "original_repository": "tstanislawek/awesome-document-understanding",
+    "original_repository_id": 355337917,
     "original_repository_sha": "2ad3a0f037b0cdcbba90843069836a80bf1dd8a9",
     "enhanced_repository": "enhansome/enhansome-document-understanding",
     "enhanced_repository_description": null,
