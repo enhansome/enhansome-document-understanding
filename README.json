@@ -1,299 +1,237 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Papers"
-    },
-    {
-      "description": "Back to top",
-      "items": [],
-      "title": "Resources"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "OCRmyPDF",
-          "description": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched or copy-pasted",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T07:07:50Z",
-            "owner": "ocrmypdf",
-            "repo": "OCRmyPDF",
-            "stars": 34478
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pdfplumber",
-          "description": "Plumb a PDF for detailed information about each text character, rectangle, and line. Plus: Table extraction and visual debugging",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-06T00:46:50Z",
-            "owner": "jsvine",
-            "repo": "pdfplumber",
-            "stars": 10671
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pdfminer.six",
-          "description": "Pdfminer.six is a community maintained fork of the original PDFMiner. It is a tool for extracting information from PDF documents. It focuses on getting and analyzing text data",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-13T13:46:54Z",
-            "owner": "pdfminer",
-            "repo": "pdfminer.six",
-            "stars": 7017
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Layout Parser",
-          "description": "Layout Parser is a deep learning based tool for document image layout analysis tasks",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-15T06:26:34Z",
-            "owner": "Layout-Parser",
-            "repo": "layout-parser",
-            "stars": 5771
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "borb",
-          "description": "is a pure python library to read, write and manipulate PDF documents. It represents a PDF document as a JSON-like datastructure of nested lists, dictionaries and primitives (numbers, string, booleans, etc).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-03T21:08:44Z",
-            "owner": "borb-pdf",
-            "repo": "borb",
-            "stars": 3568
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "deepdoctection",
-          "description": "deepdoctection is a Python library that orchestrates document extraction and document layout analysis tasks for images and pdf documents using deep learning models. It does not implement models but enables you to build pipelines using highly acknowledged libraries for object detection, OCR and selected NLP tasks and provides an integrated framework for fine-tuning, evaluating and running models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T14:54:56Z",
-            "owner": "deepdoctection",
-            "repo": "deepdoctection",
-            "stars": 3219
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PDFBox",
-          "description": "The Apache PDFBox library is an open source Java tool for working with PDF documents. This project allows creation of new PDF documents, manipulation of existing documents and the ability to extract content from documents",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T08:34:02Z",
-            "owner": "apache",
-            "repo": "pdfbox",
-            "stars": 3103
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PdfPig",
-          "description": "This project allows users to read and extract text and other content from PDF files. In addition the library can be used to create simple PDF documents containing text and geometrical shapes. This project aims to port PDFBox to C#",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-18T01:15:07Z",
-            "owner": "UglyToad",
-            "repo": "PdfPig",
-            "stars": 2541
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenContracts",
-          "description": "Apache2-licensed, PDF annotating platform for visually-rich documents that preserves the original layout and exports x,y positional data for tokens as well as span starts and stops. Based on PAWLs, but with a Python-based backend and readily deployable on your local machine, company intranet or the web via Docker Compose.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T18:36:30Z",
-            "owner": "Open-Source-Legal",
-            "repo": "OpenContracts",
-            "stars": 1440
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pawls",
-          "description": "PDF Annotations with Labels and Structure is software that makes it easy to collect a series of annotations associated with a PDF document",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-13T09:40:19Z",
-            "owner": "allenai",
-            "repo": "pawls",
-            "stars": 434
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tabulo",
-          "description": "Table extraction from images",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-11-24T18:54:27Z",
-            "owner": "the-black-knight-01",
-            "repo": "Tabulo",
-            "stars": 197
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pydoxtools",
-          "description": "Pydoxtools is an AI-composition library for dpocument analysis. It features an extensive toolset for building complex document analysis pipelines and recognizes most document formats out of the box. It supports typical NLP tasks such as keywords, summarization, question_answering out of the box. and features a high quality low-CPU/memory table extraction algorithm and makes NLP batch operations on a cluster easy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-09-05T00:51:35Z",
-            "owner": "Xyntopia",
-            "repo": "pydoxtools",
-            "stars": 87
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pdf-text-extraction-benchmark",
-          "description": "PDF tools benchmark",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TeX",
-            "last_commit": "2020-11-07T16:13:35Z",
-            "owner": "ckorzen",
-            "repo": "pdf-text-extraction-benchmark",
-            "stars": 73
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Born digital pdf scanner",
-          "description": "checking if pdf is born-digital",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2020-09-10T11:07:45Z",
-            "owner": "applicaai",
-            "repo": "digital-born-pdf-scanner",
-            "stars": 9
-          }
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "OCRmyPDF",
+                  "description": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched or copy-pasted",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 15333471,
+                    "language": "Python",
+                    "last_commit": "2026-08-18T23:58:51Z",
+                    "owner": "ocrmypdf",
+                    "repo": "OCRmyPDF",
+                    "stars": 34495
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "pdfplumber",
+                  "description": "Plumb a PDF for detailed information about each text character, rectangle, and line. Plus: Table extraction and visual debugging",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 41279279,
+                    "language": "Python",
+                    "last_commit": "2026-08-06T00:46:50Z",
+                    "owner": "jsvine",
+                    "repo": "pdfplumber",
+                    "stars": 10680
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Pdfminer.six",
+                  "description": "Pdfminer.six is a community maintained fork of the original PDFMiner. It is a tool for extracting information from PDF documents. It focuses on getting and analyzing text data",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 23465887,
+                    "language": "Python",
+                    "last_commit": "2026-03-13T13:46:54Z",
+                    "owner": "pdfminer",
+                    "repo": "pdfminer.six",
+                    "stars": 7019
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Layout Parser",
+                  "description": "Layout Parser is a deep learning based tool for document image layout analysis tasks",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 271377309,
+                    "language": "Python",
+                    "last_commit": "2024-08-15T06:26:34Z",
+                    "owner": "Layout-Parser",
+                    "repo": "layout-parser",
+                    "stars": 5771
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "borb",
+                  "description": "is a pure python library to read, write and manipulate PDF documents. It represents a PDF document as a JSON-like datastructure of nested lists, dictionaries and primitives (numbers, string, booleans, etc).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 310857764,
+                    "language": "Python",
+                    "last_commit": "2026-08-03T21:08:44Z",
+                    "owner": "borb-pdf",
+                    "repo": "borb",
+                    "stars": 3568
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "deepdoctection",
+                  "description": "deepdoctection is a Python library that orchestrates document extraction and document layout analysis tasks for images and pdf documents using deep learning models. It does not implement models but enables you to build pipelines using highly acknowledged libraries for object detection, OCR and selected NLP tasks and provides an integrated framework for fine-tuning, evaluating and running models.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 436510608,
+                    "language": "Python",
+                    "last_commit": "2026-08-16T14:54:56Z",
+                    "owner": "deepdoctection",
+                    "repo": "deepdoctection",
+                    "stars": 3219
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PDFBox",
+                  "description": "The Apache PDFBox library is an open source Java tool for working with PDF documents. This project allows creation of new PDF documents, manipulation of existing documents and the ability to extract content from documents",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 318103,
+                    "language": "Java",
+                    "last_commit": "2026-08-19T09:04:40Z",
+                    "owner": "apache",
+                    "repo": "pdfbox",
+                    "stars": 3103
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PdfPig",
+                  "description": "This project allows users to read and extract text and other content from PDF files. In addition the library can be used to create simple PDF documents containing text and geometrical shapes. This project aims to port PDFBox to C#",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 110156007,
+                    "language": "C#",
+                    "last_commit": "2026-08-19T09:30:03Z",
+                    "owner": "UglyToad",
+                    "repo": "PdfPig",
+                    "stars": 2543
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "OpenContracts",
+                  "description": "Apache2-licensed, PDF annotating platform for visually-rich documents that preserves the original layout and exports x,y positional data for tokens as well as span starts and stops. Based on PAWLs, but with a Python-based backend and readily deployable on your local machine, company intranet or the web via Docker Compose.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 556553471,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T08:14:38Z",
+                    "owner": "Open-Source-Legal",
+                    "repo": "OpenContracts",
+                    "stars": 1442
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "pawls",
+                  "description": "PDF Annotations with Labels and Structure is software that makes it easy to collect a series of annotations associated with a PDF document",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 286548153,
+                    "language": "Python",
+                    "last_commit": "2024-05-13T09:40:19Z",
+                    "owner": "allenai",
+                    "repo": "pawls",
+                    "stars": 434
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Tabulo",
+                  "description": "Table extraction from images",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 205170519,
+                    "language": "Python",
+                    "last_commit": "2022-11-24T18:54:27Z",
+                    "owner": "the-black-knight-01",
+                    "repo": "Tabulo",
+                    "stars": 197
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "pydoxtools",
+                  "description": "Pydoxtools is an AI-composition library for dpocument analysis. It features an extensive toolset for building complex document analysis pipelines and recognizes most document formats out of the box. It supports typical NLP tasks such as keywords, summarization, question_answering out of the box. and features a high quality low-CPU/memory table extraction algorithm and makes NLP batch operations on a cluster easy.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 626570381,
+                    "language": "Python",
+                    "last_commit": "2024-09-05T00:51:35Z",
+                    "owner": "Xyntopia",
+                    "repo": "pydoxtools",
+                    "stars": 87
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "pdf-text-extraction-benchmark",
+                  "description": "PDF tools benchmark",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 48033951,
+                    "language": "TeX",
+                    "last_commit": "2020-11-07T16:13:35Z",
+                    "owner": "ckorzen",
+                    "repo": "pdf-text-extraction-benchmark",
+                    "stars": 73
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Born digital pdf scanner",
+                  "description": "checking if pdf is born-digital",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 294382379,
+                    "language": "Java",
+                    "last_commit": "2020-09-10T11:07:45Z",
+                    "owner": "applicaai",
+                    "repo": "digital-born-pdf-scanner",
+                    "stars": 9
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "PDF processing tools"
+            }
+          ],
+          "description": "Back to top",
+          "node_type": "group",
+          "title": "Resources"
         }
       ],
-      "title": "PDF processing tools"
+      "title": "Others"
     },
     {
-      "description": "Back to top",
-      "items": [],
-      "title": "Conferences, workshops"
-    },
-    {
-      "description": "Back to top\nIn VRDs the importance of the layout information is crucial to understand the whole document correctly (this is the case with almost all business documents). For humans spatial information improves readability and speeds document understanding.",
-      "items": [],
-      "title": "Visually Rich Documents"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Invoice / Resume / Job Ad"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "NDA / Annual reports"
-    },
-    {
-      "description": "Back to top\nThe aim of this task is to extract texts of a number of key fields from a given collection of documents containing similar key entities.",
-      "items": [],
-      "title": "Key Information Extraction"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Scanned Receipts"
-    },
-    {
-      "description": "Examples of a real business applications and data for Kleister datasets (The key entities are in blue)",
-      "items": [],
-      "title": "NDA / Annual reports"
-    },
-    {
-      "description": "An example of a commercial real estate flyer and manually entered listing information © ProMaker Commercial Real Estate LLC, © BrokerSavant Inc.",
-      "items": [],
-      "title": "Multimedia Online Flyers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Value-added tax invoice"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Webpages"
-    },
-    {
-      "description": "Back to top\nIn computer vision or natural language processing, document layout analysis is the process of identifying and categorizing the regions of interest in the scanned image of a text document. A reading system requires the segmentation of text zones from non-textual ones and the arrangement in their correct reading order. Detection and labeling of the different zones (or blocks) as text body, illustrations, math symbols, and tables embedded in a document is called geometric layout analysis. But text zones play different logical roles inside the document (titles, captions, footnotes, etc.) and this kind of semantic labeling is the scope of the logical layout analysis. (https://en.wikipedia.org/wiki/Document_layout_analysis)",
-      "items": [],
-      "title": "Document Layout Analysis"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Scientific publication"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Historical newspapers"
-    },
-    {
-      "description": "Red: text block, Blue: figure.",
-      "items": [],
-      "title": "Business documents"
-    },
-    {
-      "description": "Back to top",
-      "items": [],
-      "title": "Document Question Answering"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "DocVQA example"
-    },
-    {
-      "description": "Back to top\nDomain",
+      "description": "Back to top\nDomain\nGeneral AI/DL/ML",
       "items": [
         {
           "node_type": "item",
@@ -302,6 +240,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188919037,
             "language": null,
             "last_commit": "2024-08-20T19:46:33Z",
             "owner": "pliang279",
@@ -316,6 +255,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 192640905,
             "language": null,
             "last_commit": "2024-06-17T06:18:41Z",
             "owner": "HumanSignal",
@@ -330,11 +270,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57230505,
             "language": null,
             "last_commit": "2024-07-06T21:02:05Z",
             "owner": "kba",
             "repo": "awesome-ocr",
-            "stars": 3118
+            "stars": 3119
           }
         },
         {
@@ -344,6 +285,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126593926,
             "language": null,
             "last_commit": "2022-01-27T14:46:32Z",
             "owner": "roomylee",
@@ -358,6 +300,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72507105,
             "language": null,
             "last_commit": "2023-04-20T07:55:24Z",
             "owner": "harpribot",
@@ -372,11 +315,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 299948211,
             "language": null,
             "last_commit": "2024-11-05T08:32:10Z",
             "owner": "Liquid-Legal-Institute",
             "repo": "Legal-Text-Analytics",
-            "stars": 733
+            "stars": 734
           }
         },
         {
@@ -386,6 +330,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 205832290,
             "language": "C#",
             "last_commit": "2023-10-01T07:20:04Z",
             "owner": "BobLd",
@@ -400,6 +345,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 194046670,
             "language": null,
             "last_commit": "2021-01-22T02:36:52Z",
             "owner": "thunlp",
@@ -414,6 +360,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 203651338,
             "language": null,
             "last_commit": "2026-05-26T15:54:20Z",
             "owner": "caufieldjh",
@@ -428,6 +375,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 212492967,
             "language": null,
             "last_commit": "2020-02-01T08:28:25Z",
             "owner": "icoxfog417",
@@ -442,6 +390,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 300773863,
             "language": null,
             "last_commit": "2025-01-02T06:07:23Z",
             "owner": "kaisugi",
@@ -456,19 +405,170 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 260776516,
             "language": null,
             "last_commit": "2022-11-25T11:35:12Z",
             "owner": "bikash",
             "repo": "DocumentUnderstanding",
             "stars": 97
           }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/papers-we-love/papers-we-love",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15204860,
+            "language": "Shell",
+            "last_commit": "2026-07-01T09:14:27Z",
+            "owner": "papers-we-love",
+            "repo": "papers-we-love",
+            "stars": 108839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/awesomedata/awesome-public-datasets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26898879,
+            "language": null,
+            "last_commit": "2026-08-04T19:54:53Z",
+            "owner": "awesomedata",
+            "repo": "awesome-public-datasets",
+            "stars": 78143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/eugeneyan/applied-ml",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 277168957,
+            "language": null,
+            "last_commit": "2024-07-18T22:41:02Z",
+            "owner": "eugeneyan",
+            "repo": "applied-ml",
+            "stars": 30069
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/jbhuang0604/awesome-computer-vision#awesome-lists",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29357796,
+            "language": null,
+            "last_commit": "2024-05-17T14:24:27Z",
+            "owner": "jbhuang0604",
+            "repo": "awesome-computer-vision",
+            "stars": 23503
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/EthicalML/awesome-production-machine-learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 144863525,
+            "language": null,
+            "last_commit": "2026-08-12T19:22:45Z",
+            "owner": "EthicalML",
+            "repo": "awesome-production-machine-learning",
+            "stars": 20852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/keon/awesome-nlp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 47184304,
+            "language": null,
+            "last_commit": "2026-08-18T21:35:47Z",
+            "owner": "keon",
+            "repo": "awesome-nlp",
+            "stars": 18907
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/hibayesian/awesome-automl-papers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 111381431,
+            "language": null,
+            "last_commit": "2024-06-11T16:51:05Z",
+            "owner": "hibayesian",
+            "repo": "awesome-automl-papers",
+            "stars": 4153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/thunlp/PLMpapers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 210390968,
+            "language": null,
+            "last_commit": "2022-11-06T09:37:38Z",
+            "owner": "thunlp",
+            "repo": "PLMpapers",
+            "stars": 3360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/BAILOOL/DoYouEvenLearn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 112894323,
+            "language": null,
+            "last_commit": "2025-01-18T08:50:42Z",
+            "owner": "BAILOOL",
+            "repo": "DoYouEvenLearn",
+            "stars": 1065
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/jsbroks/awesome-dataset-tools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 200402977,
+            "language": null,
+            "last_commit": "2023-06-09T15:42:07Z",
+            "owner": "jsbroks",
+            "repo": "awesome-dataset-tools",
+            "stars": 942
+          }
         }
       ],
-      "title": "Tilt model demo"
+      "title": "Inspirations"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T10:14:01.346Z",
+    "last_updated": "2026-08-19T10:14:23.640Z",
     "original_repository": "tstanislawek/awesome-document-understanding",
     "original_repository_sha": "2ad3a0f037b0cdcbba90843069836a80bf1dd8a9",
     "enhanced_repository": "enhansome/enhansome-document-understanding",
