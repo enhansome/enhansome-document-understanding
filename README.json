@@ -19,7 +19,7 @@
                     "last_commit": "2026-08-18T23:58:51Z",
                     "owner": "ocrmypdf",
                     "repo": "OCRmyPDF",
-                    "stars": 34497
+                    "stars": 34513
                   }
                 },
                 {
@@ -34,7 +34,7 @@
                     "last_commit": "2026-08-06T00:46:50Z",
                     "owner": "jsvine",
                     "repo": "pdfplumber",
-                    "stars": 10680
+                    "stars": 10684
                   }
                 },
                 {
@@ -49,7 +49,7 @@
                     "last_commit": "2026-03-13T13:46:54Z",
                     "owner": "pdfminer",
                     "repo": "pdfminer.six",
-                    "stars": 7019
+                    "stars": 7020
                   }
                 },
                 {
@@ -64,7 +64,7 @@
                     "last_commit": "2024-08-15T06:26:34Z",
                     "owner": "Layout-Parser",
                     "repo": "layout-parser",
-                    "stars": 5771
+                    "stars": 5773
                   }
                 },
                 {
@@ -94,7 +94,7 @@
                     "last_commit": "2026-08-16T14:54:56Z",
                     "owner": "deepdoctection",
                     "repo": "deepdoctection",
-                    "stars": 3219
+                    "stars": 3220
                   }
                 },
                 {
@@ -106,7 +106,7 @@
                     "archived": false,
                     "id": 318103,
                     "language": "Java",
-                    "last_commit": "2026-08-19T12:04:36Z",
+                    "last_commit": "2026-08-20T10:07:25Z",
                     "owner": "apache",
                     "repo": "pdfbox",
                     "stars": 3103
@@ -121,7 +121,7 @@
                     "archived": false,
                     "id": 110156007,
                     "language": "C#",
-                    "last_commit": "2026-08-19T10:25:28Z",
+                    "last_commit": "2026-08-20T01:19:42Z",
                     "owner": "UglyToad",
                     "repo": "PdfPig",
                     "stars": 2543
@@ -136,7 +136,7 @@
                     "archived": false,
                     "id": 556553471,
                     "language": "Python",
-                    "last_commit": "2026-08-19T08:14:38Z",
+                    "last_commit": "2026-08-20T03:10:39Z",
                     "owner": "Open-Source-Legal",
                     "repo": "OpenContracts",
                     "stars": 1442
@@ -245,7 +245,7 @@
             "last_commit": "2024-08-20T19:46:33Z",
             "owner": "pliang279",
             "repo": "awesome-multimodal-ml",
-            "stars": 6926
+            "stars": 6925
           }
         },
         {
@@ -260,7 +260,7 @@
             "last_commit": "2024-06-17T06:18:41Z",
             "owner": "HumanSignal",
             "repo": "awesome-data-labeling",
-            "stars": 4397
+            "stars": 4399
           }
         },
         {
@@ -275,7 +275,7 @@
             "last_commit": "2024-07-06T21:02:05Z",
             "owner": "kba",
             "repo": "awesome-ocr",
-            "stars": 3119
+            "stars": 3118
           }
         },
         {
@@ -365,7 +365,7 @@
             "last_commit": "2026-05-26T15:54:20Z",
             "owner": "caufieldjh",
             "repo": "awesome-bioie",
-            "stars": 463
+            "stars": 464
           }
         },
         {
@@ -425,7 +425,7 @@
             "last_commit": "2026-07-01T09:14:27Z",
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 108839
+            "stars": 108866
           }
         },
         {
@@ -440,7 +440,7 @@
             "last_commit": "2026-08-04T19:54:53Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78143
+            "stars": 78185
           }
         },
         {
@@ -455,7 +455,7 @@
             "last_commit": "2024-07-18T22:41:02Z",
             "owner": "eugeneyan",
             "repo": "applied-ml",
-            "stars": 30069
+            "stars": 30068
           }
         },
         {
@@ -470,7 +470,7 @@
             "last_commit": "2024-05-17T14:24:27Z",
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23504
+            "stars": 23506
           }
         },
         {
@@ -485,7 +485,7 @@
             "last_commit": "2026-08-12T19:22:45Z",
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20853
+            "stars": 20855
           }
         },
         {
@@ -500,7 +500,7 @@
             "last_commit": "2026-08-18T21:35:47Z",
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18907
+            "stars": 18912
           }
         },
         {
@@ -530,7 +530,7 @@
             "last_commit": "2022-11-06T09:37:38Z",
             "owner": "thunlp",
             "repo": "PLMpapers",
-            "stars": 3360
+            "stars": 3359
           }
         },
         {
@@ -560,7 +560,7 @@
             "last_commit": "2023-06-09T15:42:07Z",
             "owner": "jsbroks",
             "repo": "awesome-dataset-tools",
-            "stars": 942
+            "stars": 943
           }
         }
       ],
@@ -568,7 +568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:29:01.988Z",
+    "last_updated": "2026-08-20T10:16:14.761Z",
     "original_repository": "tstanislawek/awesome-document-understanding",
     "original_repository_id": 355337917,
     "original_repository_sha": "2ad3a0f037b0cdcbba90843069836a80bf1dd8a9",
