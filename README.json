@@ -1,6 +1,63 @@
 {
   "items": [
     {
+      "description": "Documents are a core part of many businesses in many fields such as law, finance, and technology among others. Automatic understanding of documents such as invoices, contracts, and resumes is lucrative, opening up many new avenues of business. The fields of natural language processing and computer vision have seen tremendous progress through the development of deep learning such that these methods have started to become infused in contemporary document understanding systems. source",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "DocILE Benchmark for Document Information Localization and Extraction",
+                  "description": ", [Website] [benchmark] [code ]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 554243063,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T08:17:10Z",
+                    "owner": "rossumai",
+                    "repo": "docile",
+                    "stars": 154
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "2023"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Doc2Graph: A Task Agnostic Document Understanding Framework Based on Graph Neural Networks",
+                  "description": ", [code ]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 486600481,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2025-10-18T21:03:07Z",
+                    "owner": "andreagemelli",
+                    "repo": "doc2graph",
+                    "stars": 140
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "2022"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Papers"
+        }
+      ],
+      "title": "Introduction"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -19,7 +76,7 @@
                     "last_commit": "2026-08-22T03:30:49Z",
                     "owner": "ocrmypdf",
                     "repo": "OCRmyPDF",
-                    "stars": 34558
+                    "stars": 34559
                   }
                 },
                 {
@@ -34,7 +91,7 @@
                     "last_commit": "2026-08-06T00:46:50Z",
                     "owner": "jsvine",
                     "repo": "pdfplumber",
-                    "stars": 10686
+                    "stars": 10687
                   }
                 },
                 {
@@ -106,7 +163,7 @@
                     "archived": false,
                     "id": 318103,
                     "language": "Java",
-                    "last_commit": "2026-08-23T12:17:56Z",
+                    "last_commit": "2026-08-24T12:08:05Z",
                     "owner": "apache",
                     "repo": "pdfbox",
                     "stars": 3104
@@ -136,7 +193,7 @@
                     "archived": false,
                     "id": 556553471,
                     "language": "Python",
-                    "last_commit": "2026-08-23T13:10:03Z",
+                    "last_commit": "2026-08-24T12:59:17Z",
                     "owner": "Open-Source-Legal",
                     "repo": "OpenContracts",
                     "stars": 1447
@@ -223,7 +280,7 @@
               "title": "PDF processing tools"
             }
           ],
-          "description": "Back to top",
+          "description": null,
           "node_type": "group",
           "title": "Resources"
         }
@@ -231,7 +288,7 @@
       "title": "Others"
     },
     {
-      "description": "Back to top\nDomain\nGeneral AI/DL/ML",
+      "description": "Domain\nGeneral AI/DL/ML",
       "items": [
         {
           "node_type": "item",
@@ -425,7 +482,7 @@
             "last_commit": "2026-08-24T09:14:23Z",
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 108963
+            "stars": 108966
           }
         },
         {
@@ -440,7 +497,7 @@
             "last_commit": "2026-08-23T23:52:17Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78578
+            "stars": 78582
           }
         },
         {
@@ -470,7 +527,7 @@
             "last_commit": "2024-05-17T14:24:27Z",
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23516
+            "stars": 23517
           }
         },
         {
@@ -500,7 +557,7 @@
             "last_commit": "2026-08-18T21:35:47Z",
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18927
+            "stars": 18926
           }
         },
         {
@@ -568,7 +625,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:24:30.120Z",
+    "last_updated": "2026-08-24T14:11:07.501Z",
     "original_repository": "tstanislawek/awesome-document-understanding",
     "original_repository_id": 355337917,
     "original_repository_sha": "2ad3a0f037b0cdcbba90843069836a80bf1dd8a9",
