@@ -76,7 +76,7 @@
                     "last_commit": "2026-08-22T03:30:49Z",
                     "owner": "ocrmypdf",
                     "repo": "OCRmyPDF",
-                    "stars": 34559
+                    "stars": 34572
                   }
                 },
                 {
@@ -91,7 +91,7 @@
                     "last_commit": "2026-08-06T00:46:50Z",
                     "owner": "jsvine",
                     "repo": "pdfplumber",
-                    "stars": 10687
+                    "stars": 10689
                   }
                 },
                 {
@@ -106,7 +106,7 @@
                     "last_commit": "2026-03-13T13:46:54Z",
                     "owner": "pdfminer",
                     "repo": "pdfminer.six",
-                    "stars": 7020
+                    "stars": 7019
                   }
                 },
                 {
@@ -136,7 +136,7 @@
                     "last_commit": "2026-08-03T21:08:44Z",
                     "owner": "borb-pdf",
                     "repo": "borb",
-                    "stars": 3569
+                    "stars": 3570
                   }
                 },
                 {
@@ -163,7 +163,7 @@
                     "archived": false,
                     "id": 318103,
                     "language": "Java",
-                    "last_commit": "2026-08-24T12:08:05Z",
+                    "last_commit": "2026-08-24T18:15:24Z",
                     "owner": "apache",
                     "repo": "pdfbox",
                     "stars": 3104
@@ -178,10 +178,10 @@
                     "archived": false,
                     "id": 110156007,
                     "language": "C#",
-                    "last_commit": "2026-08-24T00:27:26Z",
+                    "last_commit": "2026-08-25T00:27:34Z",
                     "owner": "UglyToad",
                     "repo": "PdfPig",
-                    "stars": 2548
+                    "stars": 2547
                   }
                 },
                 {
@@ -193,10 +193,10 @@
                     "archived": false,
                     "id": 556553471,
                     "language": "Python",
-                    "last_commit": "2026-08-24T12:59:17Z",
+                    "last_commit": "2026-08-24T16:33:45Z",
                     "owner": "Open-Source-Legal",
                     "repo": "OpenContracts",
-                    "stars": 1447
+                    "stars": 1448
                   }
                 },
                 {
@@ -292,7 +292,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/pliang279/awesome-multimodal-ml",
+          "title": "pliang279/awesome-multimodal-ml",
           "description": null,
           "children": [],
           "repo_info": {
@@ -307,7 +307,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/heartexlabs/awesome-data-labeling",
+          "title": "HumanSignal/awesome-data-labeling",
           "description": null,
           "children": [],
           "repo_info": {
@@ -317,12 +317,12 @@
             "last_commit": "2024-06-17T06:18:41Z",
             "owner": "HumanSignal",
             "repo": "awesome-data-labeling",
-            "stars": 4404
+            "stars": 4406
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/kba/awesome-ocr",
+          "title": "kba/awesome-ocr",
           "description": null,
           "children": [],
           "repo_info": {
@@ -337,7 +337,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/roomylee/awesome-relation-extraction",
+          "title": "roomylee/awesome-relation-extraction",
           "description": null,
           "children": [],
           "repo_info": {
@@ -352,7 +352,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/harpribot/awesome-information-retrieval",
+          "title": "harpribot/awesome-information-retrieval",
           "description": null,
           "children": [],
           "repo_info": {
@@ -362,12 +362,12 @@
             "last_commit": "2023-04-20T07:55:24Z",
             "owner": "harpribot",
             "repo": "awesome-information-retrieval",
-            "stars": 1199
+            "stars": 1201
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics",
+          "title": "Liquid-Legal-Institute/Legal-Text-Analytics",
           "description": null,
           "children": [],
           "repo_info": {
@@ -377,12 +377,12 @@
             "last_commit": "2024-11-05T08:32:10Z",
             "owner": "Liquid-Legal-Institute",
             "repo": "Legal-Text-Analytics",
-            "stars": 733
+            "stars": 734
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/BobLd/DocumentLayoutAnalysis",
+          "title": "BobLd/DocumentLayoutAnalysis",
           "description": null,
           "children": [],
           "repo_info": {
@@ -397,7 +397,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/thunlp/LegalPapers",
+          "title": "thunlp/LegalPapers",
           "description": null,
           "children": [],
           "repo_info": {
@@ -412,7 +412,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/caufieldjh/awesome-bioie",
+          "title": "caufieldjh/awesome-bioie",
           "description": null,
           "children": [],
           "repo_info": {
@@ -427,7 +427,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/icoxfog417/awesome-financial-nlp",
+          "title": "icoxfog417/awesome-financial-nlp",
           "description": null,
           "children": [],
           "repo_info": {
@@ -442,7 +442,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/HelloRusk/entity-related-papers",
+          "title": "kaisugi/entity-related-papers",
           "description": null,
           "children": [],
           "repo_info": {
@@ -457,7 +457,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/bikash/DocumentUnderstanding",
+          "title": "bikash/DocumentUnderstanding",
           "description": null,
           "children": [],
           "repo_info": {
@@ -472,7 +472,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/papers-we-love/papers-we-love",
+          "title": "papers-we-love/papers-we-love",
           "description": null,
           "children": [],
           "repo_info": {
@@ -482,27 +482,27 @@
             "last_commit": "2026-08-24T09:14:23Z",
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 108966
+            "stars": 108977
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/awesomedata/awesome-public-datasets",
+          "title": "awesomedata/awesome-public-datasets",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 26898879,
             "language": null,
-            "last_commit": "2026-08-23T23:52:17Z",
+            "last_commit": "2026-08-24T19:56:43Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78582
+            "stars": 78603
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/eugeneyan/applied-ml",
+          "title": "eugeneyan/applied-ml",
           "description": null,
           "children": [],
           "repo_info": {
@@ -517,7 +517,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/jbhuang0604/awesome-computer-vision#awesome-lists",
+          "title": "jbhuang0604/awesome-computer-vision",
           "description": null,
           "children": [],
           "repo_info": {
@@ -532,7 +532,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/EthicalML/awesome-production-machine-learning",
+          "title": "EthicalML/awesome-production-machine-learning",
           "description": null,
           "children": [],
           "repo_info": {
@@ -542,12 +542,12 @@
             "last_commit": "2026-08-12T19:22:45Z",
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20864
+            "stars": 20868
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/keon/awesome-nlp",
+          "title": "keon/awesome-nlp",
           "description": null,
           "children": [],
           "repo_info": {
@@ -557,12 +557,12 @@
             "last_commit": "2026-08-18T21:35:47Z",
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18926
+            "stars": 18930
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/hibayesian/awesome-automl-papers",
+          "title": "hibayesian/awesome-automl-papers",
           "description": null,
           "children": [],
           "repo_info": {
@@ -577,7 +577,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/thunlp/PLMpapers",
+          "title": "thunlp/PLMpapers",
           "description": null,
           "children": [],
           "repo_info": {
@@ -592,7 +592,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/BAILOOL/DoYouEvenLearn",
+          "title": "BAILOOL/DoYouEvenLearn",
           "description": null,
           "children": [],
           "repo_info": {
@@ -607,7 +607,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/jsbroks/awesome-dataset-tools",
+          "title": "jsbroks/awesome-dataset-tools",
           "description": null,
           "children": [],
           "repo_info": {
@@ -625,7 +625,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:11:07.501Z",
+    "last_updated": "2026-08-25T06:06:48.901Z",
     "original_repository": "tstanislawek/awesome-document-understanding",
     "original_repository_id": 355337917,
     "original_repository_sha": "2ad3a0f037b0cdcbba90843069836a80bf1dd8a9",
