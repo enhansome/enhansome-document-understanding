@@ -76,7 +76,7 @@
                     "last_commit": "2026-08-22T03:30:49Z",
                     "owner": "ocrmypdf",
                     "repo": "OCRmyPDF",
-                    "stars": 34572
+                    "stars": 34571
                   }
                 },
                 {
@@ -91,7 +91,7 @@
                     "last_commit": "2026-08-06T00:46:50Z",
                     "owner": "jsvine",
                     "repo": "pdfplumber",
-                    "stars": 10689
+                    "stars": 10690
                   }
                 },
                 {
@@ -181,7 +181,7 @@
                     "last_commit": "2026-08-25T00:27:34Z",
                     "owner": "UglyToad",
                     "repo": "PdfPig",
-                    "stars": 2547
+                    "stars": 2548
                   }
                 },
                 {
@@ -482,7 +482,7 @@
             "last_commit": "2026-08-24T09:14:23Z",
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 108977
+            "stars": 108985
           }
         },
         {
@@ -497,7 +497,7 @@
             "last_commit": "2026-08-24T19:56:43Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78603
+            "stars": 78611
           }
         },
         {
@@ -512,7 +512,7 @@
             "last_commit": "2024-07-18T22:41:02Z",
             "owner": "eugeneyan",
             "repo": "applied-ml",
-            "stars": 30079
+            "stars": 30080
           }
         },
         {
@@ -527,7 +527,7 @@
             "last_commit": "2024-05-17T14:24:27Z",
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23517
+            "stars": 23516
           }
         },
         {
@@ -542,7 +542,7 @@
             "last_commit": "2026-08-12T19:22:45Z",
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20868
+            "stars": 20867
           }
         },
         {
@@ -557,7 +557,7 @@
             "last_commit": "2026-08-18T21:35:47Z",
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18930
+            "stars": 18931
           }
         },
         {
@@ -572,7 +572,7 @@
             "last_commit": "2024-06-11T16:51:05Z",
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4153
+            "stars": 4154
           }
         },
         {
@@ -625,7 +625,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:06:48.901Z",
+    "last_updated": "2026-08-25T10:18:00.824Z",
     "original_repository": "tstanislawek/awesome-document-understanding",
     "original_repository_id": 355337917,
     "original_repository_sha": "2ad3a0f037b0cdcbba90843069836a80bf1dd8a9",
