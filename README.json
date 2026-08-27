@@ -76,7 +76,7 @@
                     "last_commit": "2026-08-22T03:30:49Z",
                     "owner": "ocrmypdf",
                     "repo": "OCRmyPDF",
-                    "stars": 34594
+                    "stars": 34600
                   }
                 },
                 {
@@ -91,7 +91,7 @@
                     "last_commit": "2026-08-06T00:46:50Z",
                     "owner": "jsvine",
                     "repo": "pdfplumber",
-                    "stars": 10697
+                    "stars": 10698
                   }
                 },
                 {
@@ -106,7 +106,7 @@
                     "last_commit": "2026-03-13T13:46:54Z",
                     "owner": "pdfminer",
                     "repo": "pdfminer.six",
-                    "stars": 7018
+                    "stars": 7017
                   }
                 },
                 {
@@ -163,10 +163,10 @@
                     "archived": false,
                     "id": 318103,
                     "language": "Java",
-                    "last_commit": "2026-08-27T10:46:09Z",
+                    "last_commit": "2026-08-27T19:50:15Z",
                     "owner": "apache",
                     "repo": "pdfbox",
-                    "stars": 3106
+                    "stars": 3107
                   }
                 },
                 {
@@ -181,7 +181,7 @@
                     "last_commit": "2026-08-27T01:42:05Z",
                     "owner": "UglyToad",
                     "repo": "PdfPig",
-                    "stars": 2551
+                    "stars": 2552
                   }
                 },
                 {
@@ -196,7 +196,7 @@
                     "last_commit": "2026-08-26T14:11:30Z",
                     "owner": "Open-Source-Legal",
                     "repo": "OpenContracts",
-                    "stars": 1451
+                    "stars": 1455
                   }
                 },
                 {
@@ -317,7 +317,7 @@
             "last_commit": "2024-06-17T06:18:41Z",
             "owner": "HumanSignal",
             "repo": "awesome-data-labeling",
-            "stars": 4405
+            "stars": 4406
           }
         },
         {
@@ -482,7 +482,7 @@
             "last_commit": "2026-08-24T09:14:23Z",
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 109031
+            "stars": 109043
           }
         },
         {
@@ -494,10 +494,10 @@
             "archived": false,
             "id": 26898879,
             "language": null,
-            "last_commit": "2026-08-26T21:15:40Z",
+            "last_commit": "2026-08-27T16:53:23Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78670
+            "stars": 78675
           }
         },
         {
@@ -512,7 +512,7 @@
             "last_commit": "2024-07-18T22:41:02Z",
             "owner": "eugeneyan",
             "repo": "applied-ml",
-            "stars": 30089
+            "stars": 30091
           }
         },
         {
@@ -542,7 +542,7 @@
             "last_commit": "2026-08-26T05:40:57Z",
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20869
+            "stars": 20870
           }
         },
         {
@@ -625,7 +625,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:33:54.764Z",
+    "last_updated": "2026-08-27T20:01:08.759Z",
     "original_repository_info": {
       "archived": false,
       "id": 355337917,
