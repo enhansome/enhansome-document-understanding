@@ -20,7 +20,8 @@
                     "owner": "rossumai",
                     "repo": "docile",
                     "stars": 155
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:00:08.259Z"
                 }
               ],
               "description": null,
@@ -42,7 +43,8 @@
                     "owner": "andreagemelli",
                     "repo": "doc2graph",
                     "stars": 140
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:00:08.259Z"
                 }
               ],
               "description": null,
@@ -73,11 +75,12 @@
                     "archived": false,
                     "id": 15333471,
                     "language": "Python",
-                    "last_commit": "2026-08-22T03:30:49Z",
+                    "last_commit": "2026-08-28T17:20:14Z",
                     "owner": "ocrmypdf",
                     "repo": "OCRmyPDF",
-                    "stars": 34600
-                  }
+                    "stars": 34604
+                  },
+                  "first_seen": "2026-08-28T21:00:08.259Z"
                 },
                 {
                   "node_type": "item",
@@ -91,8 +94,9 @@
                     "last_commit": "2026-08-06T00:46:50Z",
                     "owner": "jsvine",
                     "repo": "pdfplumber",
-                    "stars": 10698
-                  }
+                    "stars": 10701
+                  },
+                  "first_seen": "2026-08-28T21:00:08.259Z"
                 },
                 {
                   "node_type": "item",
@@ -107,7 +111,8 @@
                     "owner": "pdfminer",
                     "repo": "pdfminer.six",
                     "stars": 7017
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:00:08.259Z"
                 },
                 {
                   "node_type": "item",
@@ -121,8 +126,9 @@
                     "last_commit": "2024-08-15T06:26:34Z",
                     "owner": "Layout-Parser",
                     "repo": "layout-parser",
-                    "stars": 5774
-                  }
+                    "stars": 5775
+                  },
+                  "first_seen": "2026-08-28T21:00:08.259Z"
                 },
                 {
                   "node_type": "item",
@@ -137,7 +143,8 @@
                     "owner": "borb-pdf",
                     "repo": "borb",
                     "stars": 3570
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:00:08.259Z"
                 },
                 {
                   "node_type": "item",
@@ -152,7 +159,8 @@
                     "owner": "deepdoctection",
                     "repo": "deepdoctection",
                     "stars": 3248
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:00:08.259Z"
                 },
                 {
                   "node_type": "item",
@@ -163,11 +171,12 @@
                     "archived": false,
                     "id": 318103,
                     "language": "Java",
-                    "last_commit": "2026-08-27T19:50:15Z",
+                    "last_commit": "2026-08-28T19:39:13Z",
                     "owner": "apache",
                     "repo": "pdfbox",
                     "stars": 3107
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:00:08.259Z"
                 },
                 {
                   "node_type": "item",
@@ -182,7 +191,8 @@
                     "owner": "UglyToad",
                     "repo": "PdfPig",
                     "stars": 2552
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:00:08.259Z"
                 },
                 {
                   "node_type": "item",
@@ -193,11 +203,12 @@
                     "archived": false,
                     "id": 556553471,
                     "language": "Python",
-                    "last_commit": "2026-08-26T14:11:30Z",
+                    "last_commit": "2026-08-28T11:34:10Z",
                     "owner": "Open-Source-Legal",
                     "repo": "OpenContracts",
                     "stars": 1455
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:00:08.259Z"
                 },
                 {
                   "node_type": "item",
@@ -212,7 +223,8 @@
                     "owner": "allenai",
                     "repo": "pawls",
                     "stars": 435
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:00:08.259Z"
                 },
                 {
                   "node_type": "item",
@@ -227,7 +239,8 @@
                     "owner": "the-black-knight-01",
                     "repo": "Tabulo",
                     "stars": 197
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:00:08.259Z"
                 },
                 {
                   "node_type": "item",
@@ -242,7 +255,8 @@
                     "owner": "Xyntopia",
                     "repo": "pydoxtools",
                     "stars": 87
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:00:08.259Z"
                 },
                 {
                   "node_type": "item",
@@ -257,7 +271,8 @@
                     "owner": "ckorzen",
                     "repo": "pdf-text-extraction-benchmark",
                     "stars": 73
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:00:08.259Z"
                 },
                 {
                   "node_type": "item",
@@ -272,7 +287,8 @@
                     "owner": "applicaai",
                     "repo": "digital-born-pdf-scanner",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:00:08.259Z"
                 }
               ],
               "description": null,
@@ -302,8 +318,9 @@
             "last_commit": "2024-08-20T19:46:33Z",
             "owner": "pliang279",
             "repo": "awesome-multimodal-ml",
-            "stars": 6926
-          }
+            "stars": 6924
+          },
+          "first_seen": "2026-08-28T21:00:08.259Z"
         },
         {
           "node_type": "item",
@@ -317,8 +334,9 @@
             "last_commit": "2024-06-17T06:18:41Z",
             "owner": "HumanSignal",
             "repo": "awesome-data-labeling",
-            "stars": 4406
-          }
+            "stars": 4408
+          },
+          "first_seen": "2026-08-28T21:00:08.259Z"
         },
         {
           "node_type": "item",
@@ -333,7 +351,8 @@
             "owner": "kba",
             "repo": "awesome-ocr",
             "stars": 3119
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.259Z"
         },
         {
           "node_type": "item",
@@ -348,7 +367,8 @@
             "owner": "roomylee",
             "repo": "awesome-relation-extraction",
             "stars": 1224
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.259Z"
         },
         {
           "node_type": "item",
@@ -363,7 +383,8 @@
             "owner": "harpribot",
             "repo": "awesome-information-retrieval",
             "stars": 1201
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.259Z"
         },
         {
           "node_type": "item",
@@ -378,7 +399,8 @@
             "owner": "Liquid-Legal-Institute",
             "repo": "Legal-Text-Analytics",
             "stars": 735
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.259Z"
         },
         {
           "node_type": "item",
@@ -393,7 +415,8 @@
             "owner": "BobLd",
             "repo": "DocumentLayoutAnalysis",
             "stars": 637
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.259Z"
         },
         {
           "node_type": "item",
@@ -408,7 +431,8 @@
             "owner": "thunlp",
             "repo": "LegalPapers",
             "stars": 499
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.259Z"
         },
         {
           "node_type": "item",
@@ -422,8 +446,9 @@
             "last_commit": "2026-05-26T15:54:20Z",
             "owner": "caufieldjh",
             "repo": "awesome-bioie",
-            "stars": 464
-          }
+            "stars": 465
+          },
+          "first_seen": "2026-08-28T21:00:08.259Z"
         },
         {
           "node_type": "item",
@@ -438,7 +463,8 @@
             "owner": "icoxfog417",
             "repo": "awesome-financial-nlp",
             "stars": 438
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.259Z"
         },
         {
           "node_type": "item",
@@ -453,7 +479,8 @@
             "owner": "kaisugi",
             "repo": "entity-related-papers",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.259Z"
         },
         {
           "node_type": "item",
@@ -468,7 +495,8 @@
             "owner": "bikash",
             "repo": "DocumentUnderstanding",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.259Z"
         },
         {
           "node_type": "item",
@@ -482,8 +510,9 @@
             "last_commit": "2026-08-24T09:14:23Z",
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 109043
-          }
+            "stars": 109060
+          },
+          "first_seen": "2026-08-28T21:00:08.259Z"
         },
         {
           "node_type": "item",
@@ -494,11 +523,12 @@
             "archived": false,
             "id": 26898879,
             "language": null,
-            "last_commit": "2026-08-27T16:53:23Z",
+            "last_commit": "2026-08-28T16:22:22Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78675
-          }
+            "stars": 78692
+          },
+          "first_seen": "2026-08-28T21:00:08.259Z"
         },
         {
           "node_type": "item",
@@ -512,8 +542,9 @@
             "last_commit": "2024-07-18T22:41:02Z",
             "owner": "eugeneyan",
             "repo": "applied-ml",
-            "stars": 30091
-          }
+            "stars": 30096
+          },
+          "first_seen": "2026-08-28T21:00:08.259Z"
         },
         {
           "node_type": "item",
@@ -528,7 +559,8 @@
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
             "stars": 23520
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.259Z"
         },
         {
           "node_type": "item",
@@ -542,8 +574,9 @@
             "last_commit": "2026-08-26T05:40:57Z",
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20870
-          }
+            "stars": 20877
+          },
+          "first_seen": "2026-08-28T21:00:08.259Z"
         },
         {
           "node_type": "item",
@@ -557,8 +590,9 @@
             "last_commit": "2026-08-18T21:35:47Z",
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18936
-          }
+            "stars": 18940
+          },
+          "first_seen": "2026-08-28T21:00:08.259Z"
         },
         {
           "node_type": "item",
@@ -573,7 +607,8 @@
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
             "stars": 4154
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.259Z"
         },
         {
           "node_type": "item",
@@ -588,7 +623,8 @@
             "owner": "thunlp",
             "repo": "PLMpapers",
             "stars": 3359
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.259Z"
         },
         {
           "node_type": "item",
@@ -603,7 +639,8 @@
             "owner": "BAILOOL",
             "repo": "DoYouEvenLearn",
             "stars": 1063
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.259Z"
         },
         {
           "node_type": "item",
@@ -618,14 +655,15 @@
             "owner": "jsbroks",
             "repo": "awesome-dataset-tools",
             "stars": 943
-          }
+          },
+          "first_seen": "2026-08-28T21:00:08.259Z"
         }
       ],
       "title": "Inspirations"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:01:08.759Z",
+    "last_updated": "2026-08-28T21:00:08.259Z",
     "original_repository_info": {
       "archived": false,
       "id": 355337917,
@@ -633,7 +671,7 @@
       "last_commit": "2023-06-02T03:56:06Z",
       "owner": "tstanislawek",
       "repo": "awesome-document-understanding",
-      "stars": 1536
+      "stars": 1537
     },
     "original_repository_sha": "2ad3a0f037b0cdcbba90843069836a80bf1dd8a9",
     "enhanced_repository": "enhansome/enhansome-document-understanding",
