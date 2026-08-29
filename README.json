@@ -14,12 +14,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DocILE: Document Information Localization and Extraction Benchmark",
+                    "homepage": "https://docile.rossum.ai",
                     "id": 554243063,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T08:17:10Z",
+                    "open_issues": 4,
                     "owner": "rossumai",
                     "repo": "docile",
-                    "stars": 155
+                    "stars": 155,
+                    "topics": [
+                      "benchmark",
+                      "document",
+                      "extraction",
+                      "information",
+                      "key",
+                      "kie",
+                      "kile",
+                      "understanding"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:00:08.259Z"
                 }
@@ -37,12 +51,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Doc2Graph transforms documents into graphs and exploit a GNN to solve several tasks.",
+                    "homepage": "https://deepwiki.com/andreagemelli/doc2graph/1-overview",
                     "id": 486600481,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2025-10-18T21:03:07Z",
+                    "open_issues": 0,
                     "owner": "andreagemelli",
                     "repo": "doc2graph",
-                    "stars": 140
+                    "stars": 140,
+                    "topics": [
+                      "deep-learning",
+                      "document-understanding",
+                      "geometric-deep-learning",
+                      "gnn",
+                      "key-information-extraction",
+                      "layout-analysis",
+                      "nlp",
+                      "pytorch",
+                      "table-detection"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:00:08.259Z"
                 }
@@ -73,12 +102,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",
+                    "homepage": "http://ocrmypdf.readthedocs.io/",
                     "id": 15333471,
                     "language": "Python",
-                    "last_commit": "2026-08-28T17:20:14Z",
+                    "license": "MPL-2.0",
+                    "last_commit": "2026-08-28T22:15:03Z",
+                    "open_issues": 98,
                     "owner": "ocrmypdf",
                     "repo": "OCRmyPDF",
-                    "stars": 34604
+                    "stars": 34603,
+                    "topics": [
+                      "image-processing",
+                      "ocr",
+                      "pdf",
+                      "python",
+                      "tesseract"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:00:08.259Z"
                 },
@@ -89,12 +129,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.",
+                    "homepage": null,
                     "id": 41279279,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-06T00:46:50Z",
+                    "open_issues": 98,
                     "owner": "jsvine",
                     "repo": "pdfplumber",
-                    "stars": 10701
+                    "stars": 10701,
+                    "topics": [
+                      "pdf",
+                      "pdf-parsing",
+                      "table-extraction"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:00:08.259Z"
                 },
@@ -105,12 +154,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Community maintained fork of pdfminer - we fathom PDF",
+                    "homepage": "https://pdfminersix.readthedocs.io",
                     "id": 23465887,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-03-13T13:46:54Z",
+                    "open_issues": 231,
                     "owner": "pdfminer",
                     "repo": "pdfminer.six",
-                    "stars": 7017
+                    "stars": 7017,
+                    "topics": [
+                      "parser",
+                      "pdf",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:00:08.259Z"
                 },
@@ -121,12 +179,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Unified Toolkit for Deep Learning Based Document Image Analysis",
+                    "homepage": "https://layout-parser.github.io/",
                     "id": 271377309,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-08-15T06:26:34Z",
+                    "open_issues": 120,
                     "owner": "Layout-Parser",
                     "repo": "layout-parser",
-                    "stars": 5775
+                    "stars": 5775,
+                    "topics": [
+                      "computer-vision",
+                      "deep-learning",
+                      "detectron2",
+                      "document-image-processing",
+                      "document-layout-analysis",
+                      "layout-analysis",
+                      "layout-detection",
+                      "layout-parser",
+                      "object-detection",
+                      "ocr"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:00:08.259Z"
                 },
@@ -137,12 +211,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "borb is a library for reading, creating and manipulating PDF files in python.",
+                    "homepage": "https://borbpdf.com/",
                     "id": 310857764,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-26T18:39:58Z",
+                    "open_issues": 10,
                     "owner": "borb-pdf",
                     "repo": "borb",
-                    "stars": 3570
+                    "stars": 3570,
+                    "topics": [
+                      "library",
+                      "pdf",
+                      "pdf-conversion",
+                      "pdf-converter",
+                      "pdf-generation",
+                      "pdf-library",
+                      "python",
+                      "python3",
+                      "sdk",
+                      "typesetting"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:00:08.259Z"
                 },
@@ -153,12 +243,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Repo For Document AI",
+                    "homepage": "https://deepdoctection.readthedocs.io/",
                     "id": 436510608,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-16T14:54:56Z",
+                    "open_issues": 8,
                     "owner": "deepdoctection",
                     "repo": "deepdoctection",
-                    "stars": 3248
+                    "stars": 3248,
+                    "topics": [
+                      "document-ai",
+                      "document-image-analysis",
+                      "document-layout-analysis",
+                      "document-parser",
+                      "document-understanding",
+                      "layoutlm",
+                      "nlp",
+                      "ocr",
+                      "publaynet",
+                      "pubtabnet",
+                      "python",
+                      "pytorch",
+                      "table-detection",
+                      "table-recognition",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:00:08.259Z"
                 },
@@ -169,12 +280,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mirror of Apache PDFBox",
+                    "homepage": "http://pdfbox.apache.org/",
                     "id": 318103,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T19:39:13Z",
+                    "open_issues": 37,
                     "owner": "apache",
                     "repo": "pdfbox",
-                    "stars": 3107
+                    "stars": 3107,
+                    "topics": [
+                      "content",
+                      "java",
+                      "library",
+                      "pdfbox"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:00:08.259Z"
                 },
@@ -185,12 +306,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Read and extract text and other content from PDFs in C# (port of PDFBox)",
+                    "homepage": "https://github.com/UglyToad/PdfPig/wiki",
                     "id": 110156007,
                     "language": "C#",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T01:42:05Z",
+                    "open_issues": 31,
                     "owner": "UglyToad",
                     "repo": "PdfPig",
-                    "stars": 2552
+                    "stars": 2552,
+                    "topics": [
+                      "alto-xml",
+                      "csharp",
+                      "document-analysis",
+                      "hocr",
+                      "layout-analysis",
+                      "netstandard",
+                      "page-xml",
+                      "pdf",
+                      "pdf-document",
+                      "pdf-document-processor",
+                      "pdf-extractor",
+                      "pdf-files",
+                      "pdf-generation",
+                      "pdfbox"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:00:08.259Z"
                 },
@@ -201,12 +342,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+                    "homepage": "https://open-source-legal.github.io/OpenContracts/",
                     "id": 556553471,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T11:34:10Z",
+                    "open_issues": 22,
                     "owner": "Open-Source-Legal",
                     "repo": "OpenContracts",
-                    "stars": 1455
+                    "stars": 1455,
+                    "topics": [
+                      "agent",
+                      "agentic-ai",
+                      "ai",
+                      "ai-agents",
+                      "etl",
+                      "etl-pipeline",
+                      "llm",
+                      "prompt-engineering",
+                      "unstructured-data",
+                      "vector-database"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:00:08.259Z"
                 },
@@ -217,12 +374,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Software that makes labeling PDFs easy.",
+                    "homepage": "https://pawls.apps.allenai.org",
                     "id": 286548153,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-05-13T09:40:19Z",
+                    "open_issues": 58,
                     "owner": "allenai",
                     "repo": "pawls",
-                    "stars": 435
+                    "stars": 435,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:00:08.259Z"
                 },
@@ -233,12 +395,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Table Detection and Extraction Using Deep Learning ( It is built in Python, using Luminoth, TensorFlow<2.0 and Sonnet.)",
+                    "homepage": "https://interviewbubble.com",
                     "id": 205170519,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2022-11-24T18:54:27Z",
+                    "open_issues": 15,
                     "owner": "the-black-knight-01",
                     "repo": "Tabulo",
-                    "stars": 197
+                    "stars": 197,
+                    "topics": [
+                      "deep-learning",
+                      "detection",
+                      "faster-r-cnn",
+                      "luminoth",
+                      "ocr",
+                      "pdf-table-extraction",
+                      "python",
+                      "sonnet",
+                      "ssd",
+                      "table-data-extraction",
+                      "table-detection",
+                      "table-detection-using-deep-learning",
+                      "table-recognition",
+                      "tabulo",
+                      "tensorflow",
+                      "tesseract"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:00:08.259Z"
                 },
@@ -249,12 +433,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Effortlessly extract information from unstructured data with this library, utilizing advanced AI techniques. Compose AI in customizable pipelines and diverse sources for your projects.",
+                    "homepage": "https://pydoxtools.xyntopia.com",
                     "id": 626570381,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-09-05T00:51:35Z",
+                    "open_issues": 2,
                     "owner": "Xyntopia",
                     "repo": "pydoxtools",
-                    "stars": 87
+                    "stars": 87,
+                    "topics": [
+                      "chatgpt",
+                      "document-analysis",
+                      "document-extraction",
+                      "extraction",
+                      "information-retrieval",
+                      "llm",
+                      "nlp",
+                      "pdf",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:00:08.259Z"
                 },
@@ -265,12 +464,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A project about benchmarking and evaluating existing PDF extraction tools on their semantic abilities to extract the body texts from PDF documents, especially from scientific articles.",
+                    "homepage": null,
                     "id": 48033951,
                     "language": "TeX",
+                    "license": "MIT",
                     "last_commit": "2020-11-07T16:13:35Z",
+                    "open_issues": 2,
                     "owner": "ckorzen",
                     "repo": "pdf-text-extraction-benchmark",
-                    "stars": 73
+                    "stars": 73,
+                    "topics": [
+                      "arxiv",
+                      "benchmark",
+                      "evaluation",
+                      "extraction",
+                      "pdf",
+                      "tex",
+                      "text-extraction"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:00:08.259Z"
                 },
@@ -281,12 +493,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 294382379,
                     "language": "Java",
+                    "license": "AGPL-3.0",
                     "last_commit": "2020-09-10T11:07:45Z",
+                    "open_issues": 1,
                     "owner": "applicaai",
                     "repo": "digital-born-pdf-scanner",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:00:08.259Z"
                 }
@@ -313,12 +530,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reading list for research topics in multimodal machine learning",
+            "homepage": null,
             "id": 188919037,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-08-20T19:46:33Z",
+            "open_issues": 13,
             "owner": "pliang279",
             "repo": "awesome-multimodal-ml",
-            "stars": 6924
+            "stars": 6924,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "healthcare",
+              "machine-learning",
+              "multimodal-learning",
+              "natural-language-processing",
+              "reading-list",
+              "reinforcement-learning",
+              "representation-learning",
+              "robotics",
+              "speech-processing"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.259Z"
         },
@@ -329,12 +563,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome data labeling tools",
+            "homepage": null,
             "id": 192640905,
             "language": null,
+            "license": null,
             "last_commit": "2024-06-17T06:18:41Z",
+            "open_issues": 57,
             "owner": "HumanSignal",
             "repo": "awesome-data-labeling",
-            "stars": 4408
+            "stars": 4408,
+            "topics": [
+              "3d-annotation",
+              "annotation",
+              "annotation-tool",
+              "audio-annotation",
+              "audio-annotation-tool",
+              "awesome",
+              "awesome-list",
+              "bounding-box",
+              "data-labeling",
+              "deep-learning",
+              "image-annotation",
+              "image-labeling",
+              "image-labeling-tool",
+              "label-images",
+              "label-videos",
+              "labeling",
+              "labeling-tool",
+              "lidar",
+              "semantic-segmentation",
+              "video-annotation"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.259Z"
         },
@@ -345,12 +605,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Links to awesome OCR projects",
+            "homepage": "https://github.com/kba/awesome-ocr",
             "id": 57230505,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-07-06T21:02:05Z",
+            "open_issues": 64,
             "owner": "kba",
             "repo": "awesome-ocr",
-            "stars": 3119
+            "stars": 3119,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.259Z"
         },
@@ -361,12 +626,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📖 A curated list of awesome resources dedicated to Relation Extraction, one of the most important tasks in Natural Language Processing (NLP).",
+            "homepage": null,
             "id": 126593926,
             "language": null,
+            "license": null,
             "last_commit": "2022-01-27T14:46:32Z",
+            "open_issues": 3,
             "owner": "roomylee",
             "repo": "awesome-relation-extraction",
-            "stars": 1224
+            "stars": 1224,
+            "topics": [
+              "aaai",
+              "acl",
+              "awesome",
+              "deep-learning",
+              "distant-supervision",
+              "emnlp",
+              "machine-learning",
+              "naacl",
+              "natural-language-processing",
+              "new-york-times",
+              "nips",
+              "nlp",
+              "paper",
+              "relation-classification",
+              "relation-extraction",
+              "semeval-2010",
+              "state-of-the-art",
+              "trends"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.259Z"
         },
@@ -377,12 +666,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome information retrieval resources",
+            "homepage": null,
             "id": 72507105,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2023-04-20T07:55:24Z",
+            "open_issues": 9,
             "owner": "harpribot",
             "repo": "awesome-information-retrieval",
-            "stars": 1201
+            "stars": 1201,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.259Z"
         },
@@ -393,12 +687,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of selected resources, methods, and tools dedicated to Legal Text Analytics.",
+            "homepage": null,
             "id": 299948211,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2024-11-05T08:32:10Z",
+            "open_issues": 0,
             "owner": "Liquid-Legal-Institute",
             "repo": "Legal-Text-Analytics",
-            "stars": 735
+            "stars": 735,
+            "topics": [
+              "legal",
+              "legal-text-analytics",
+              "nlp"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.259Z"
         },
@@ -409,12 +712,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Document Layout Analysis resources repos for development with PdfPig.",
+            "homepage": null,
             "id": 205832290,
             "language": "C#",
+            "license": null,
             "last_commit": "2023-10-01T07:20:04Z",
+            "open_issues": 0,
             "owner": "BobLd",
             "repo": "DocumentLayoutAnalysis",
-            "stars": 637
+            "stars": 637,
+            "topics": [
+              "alto",
+              "alto-xml",
+              "csharp",
+              "docstrum",
+              "document-layout-analysis",
+              "hocr",
+              "hocr-documents",
+              "layout-analysis",
+              "page-segmentation",
+              "page-xml",
+              "pdf",
+              "pdfpig",
+              "recursive-xy-cut",
+              "table-extraction",
+              "tei",
+              "xy-cut",
+              "xycut"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.259Z"
         },
@@ -425,12 +751,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Must-read Papers on Legal Intelligence",
+            "homepage": null,
             "id": 194046670,
             "language": null,
+            "license": null,
             "last_commit": "2021-01-22T02:36:52Z",
+            "open_issues": 0,
             "owner": "thunlp",
             "repo": "LegalPapers",
-            "stars": 499
+            "stars": 499,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.259Z"
         },
@@ -441,12 +772,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧫 A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP)",
+            "homepage": null,
             "id": 203651338,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-05-26T15:54:20Z",
+            "open_issues": 8,
             "owner": "caufieldjh",
             "repo": "awesome-bioie",
-            "stars": 465
+            "stars": 465,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bioinformatics",
+              "biomedical",
+              "biomedical-data",
+              "biomedical-language",
+              "information-extraction",
+              "medical-informatics",
+              "natural-language-processing",
+              "nlp",
+              "text-mining"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.259Z"
         },
@@ -457,12 +805,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Researches for Natural Language Processing for Financial Domain",
+            "homepage": null,
             "id": 212492967,
             "language": null,
+            "license": null,
             "last_commit": "2020-02-01T08:28:25Z",
+            "open_issues": 2,
             "owner": "icoxfog417",
             "repo": "awesome-financial-nlp",
-            "stars": 438
+            "stars": 438,
+            "topics": [
+              "finance",
+              "financial-analysis",
+              "machine-learning",
+              "natural-language-processing"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.259Z"
         },
@@ -473,12 +831,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Named Entity Recognition, Entity Linking, and more",
+            "homepage": null,
             "id": 300773863,
             "language": null,
+            "license": null,
             "last_commit": "2025-01-02T06:07:23Z",
+            "open_issues": 2,
             "owner": "kaisugi",
             "repo": "entity-related-papers",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "entity-linking",
+              "entity-representation",
+              "entity-typing",
+              "named-entity-recognition",
+              "ner"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.259Z"
         },
@@ -489,12 +858,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Research papers and code on information extraction from image/pdf",
+            "homepage": null,
             "id": 260776516,
             "language": null,
+            "license": null,
             "last_commit": "2022-11-25T11:35:12Z",
+            "open_issues": 0,
             "owner": "bikash",
             "repo": "DocumentUnderstanding",
-            "stars": 97
+            "stars": 97,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.259Z"
         },
@@ -505,12 +879,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Papers from the computer science community to read and discuss.",
+            "homepage": "http://paperswelove.org/",
             "id": 15204860,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-08-24T09:14:23Z",
+            "open_issues": 3,
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 109060
+            "stars": 109070,
+            "topics": [
+              "awesome",
+              "computer-science",
+              "meetup",
+              "papers",
+              "programming",
+              "read-papers",
+              "theory"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.259Z"
         },
@@ -521,12 +908,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A topic-centric list of HQ open datasets.",
+            "homepage": "https://awesomedataworld.slack.com",
             "id": 26898879,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-28T16:22:22Z",
+            "open_issues": 159,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78692
+            "stars": 78694,
+            "topics": [
+              "aaron-swartz",
+              "awesome-public-datasets",
+              "datasets",
+              "opendata"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.259Z"
         },
@@ -537,12 +934,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+            "homepage": null,
             "id": 277168957,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-07-18T22:41:02Z",
+            "open_issues": 8,
             "owner": "eugeneyan",
             "repo": "applied-ml",
-            "stars": 30096
+            "stars": 30097,
+            "topics": [
+              "applied-data-science",
+              "applied-machine-learning",
+              "computer-vision",
+              "data-discovery",
+              "data-engineering",
+              "data-quality",
+              "data-science",
+              "deep-learning",
+              "machine-learning",
+              "natural-language-processing",
+              "production",
+              "recsys",
+              "reinforcement-learning",
+              "search"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.259Z"
         },
@@ -553,12 +970,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome computer vision resources",
+            "homepage": null,
             "id": 29357796,
             "language": null,
+            "license": null,
             "last_commit": "2024-05-17T14:24:27Z",
+            "open_issues": 92,
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23520
+            "stars": 23520,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.259Z"
         },
@@ -569,12 +991,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",
+            "homepage": "https://ethicalml.github.io/awesome-production-machine-learning",
             "id": 144863525,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-26T05:40:57Z",
+            "open_issues": 32,
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20877
+            "stars": 20877,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "data-mining",
+              "deep-learning",
+              "explainability",
+              "interpretability",
+              "large-scale-machine-learning",
+              "large-scale-ml",
+              "machine-learning",
+              "machine-learning-operations",
+              "ml-operations",
+              "ml-ops",
+              "mlops",
+              "privacy-preserving",
+              "privacy-preserving-machine-learning",
+              "privacy-preserving-ml",
+              "production-machine-learning",
+              "production-ml",
+              "responsible-ai"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.259Z"
         },
@@ -585,12 +1032,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":book: A curated list of resources dedicated to Natural Language Processing (NLP)",
+            "homepage": null,
             "id": 47184304,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-18T21:35:47Z",
+            "open_issues": 15,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18940
+            "stars": 18940,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "deep-learning",
+              "language",
+              "machine-learning",
+              "natural-language-processing",
+              "nlp",
+              "text-mining"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.259Z"
         },
@@ -601,12 +1062,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
+            "homepage": null,
             "id": 111381431,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2024-06-11T16:51:05Z",
+            "open_issues": 2,
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4154
+            "stars": 4154,
+            "topics": [
+              "automated-feature-engineering",
+              "automl",
+              "hyperparameter-optimization",
+              "neural-architecture-search"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.259Z"
         },
@@ -617,12 +1088,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Must-read Papers on pre-trained language models.",
+            "homepage": null,
             "id": 210390968,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-11-06T09:37:38Z",
+            "open_issues": 3,
             "owner": "thunlp",
             "repo": "PLMpapers",
-            "stars": 3359
+            "stars": 3359,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.259Z"
         },
@@ -633,12 +1109,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Essential Guide to keep up with AI/ML/DL/CV",
+            "homepage": null,
             "id": 112894323,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-01-18T08:50:42Z",
+            "open_issues": 0,
             "owner": "BAILOOL",
             "repo": "DoYouEvenLearn",
-            "stars": 1063
+            "stars": 1063,
+            "topics": [
+              "artificial-intelligence",
+              "computer-vision",
+              "machine-learning",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.259Z"
         },
@@ -649,12 +1135,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔧 A curated list of awesome dataset tools",
+            "homepage": null,
             "id": 200402977,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-06-09T15:42:07Z",
+            "open_issues": 7,
             "owner": "jsbroks",
             "repo": "awesome-dataset-tools",
-            "stars": 943
+            "stars": 943,
+            "topics": [
+              "annotation-tool",
+              "annotations",
+              "awsome",
+              "awsome-list",
+              "datasets",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T21:00:08.259Z"
         }
@@ -663,15 +1161,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:00:08.259Z",
+    "last_updated": "2026-08-29T04:30:46.763Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of resources for Document Understanding (DU) topic",
+      "homepage": null,
       "id": 355337917,
       "language": null,
+      "license": null,
       "last_commit": "2023-06-02T03:56:06Z",
+      "open_issues": 12,
       "owner": "tstanislawek",
       "repo": "awesome-document-understanding",
-      "stars": 1537
+      "stars": 1537,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "deep-learning",
+        "document-ai",
+        "document-analysis",
+        "document-intelligence",
+        "document-layout-analysis",
+        "document-understanding",
+        "information-extraction",
+        "intelligent-processing",
+        "key-information-extraction",
+        "machine-learning",
+        "natural-language-processing",
+        "nlp",
+        "ocr",
+        "pdf",
+        "pdf-documents",
+        "robotic-process-automation",
+        "rpa",
+        "unstructured-data"
+      ]
     },
     "original_repository_sha": "2ad3a0f037b0cdcbba90843069836a80bf1dd8a9",
     "enhanced_repository": "enhansome/enhansome-document-understanding",
