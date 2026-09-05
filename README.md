@@ -153,14 +153,14 @@ Documents are a core part of many businesses in many fields such as law, finance
 
 #### PDF processing tools
 
-1. [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) ⭐ 34,667 | 🐛 98 | 🌐 Python | 📅 2026-09-01 ![](https://img.shields.io/github/stars/jbarlow83/OCRmyPDF.svg?style=social) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched or copy-pasted
-2. [pdfplumber](https://github.com/jsvine/pdfplumber) ⭐ 10,709 | 🐛 100 | 🌐 Python | 📅 2026-08-06 ![](https://img.shields.io/github/stars/jsvine/pdfplumber.svg?style=social) - Plumb a PDF for detailed information about each text character, rectangle, and line. Plus: Table extraction and visual debugging
+1. [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) ⭐ 34,674 | 🐛 98 | 🌐 Python | 📅 2026-09-01 ![](https://img.shields.io/github/stars/jbarlow83/OCRmyPDF.svg?style=social) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched or copy-pasted
+2. [pdfplumber](https://github.com/jsvine/pdfplumber) ⭐ 10,711 | 🐛 100 | 🌐 Python | 📅 2026-08-06 ![](https://img.shields.io/github/stars/jsvine/pdfplumber.svg?style=social) - Plumb a PDF for detailed information about each text character, rectangle, and line. Plus: Table extraction and visual debugging
 3. [Pdfminer.six](https://github.com/pdfminer/pdfminer.six) ⭐ 7,020 | 🐛 234 | 🌐 Python | 📅 2026-03-13 ![](https://img.shields.io/github/stars/pdfminer/pdfminer.six.svg?style=social) - Pdfminer.six is a community maintained fork of the original PDFMiner. It is a tool for extracting information from PDF documents. It focuses on getting and analyzing text data
-4. [Layout Parser](https://github.com/Layout-Parser/layout-parser) ⭐ 5,777 | 🐛 120 | 🌐 Python | 📅 2024-08-15 ![](https://img.shields.io/github/stars/Layout-Parser/layout-parser.svg?style=social) - Layout Parser is a deep learning based tool for document image layout analysis tasks
+4. [Layout Parser](https://github.com/Layout-Parser/layout-parser) ⭐ 5,778 | 🐛 120 | 🌐 Python | 📅 2024-08-15 ![](https://img.shields.io/github/stars/Layout-Parser/layout-parser.svg?style=social) - Layout Parser is a deep learning based tool for document image layout analysis tasks
 5. [borb](https://github.com/jorisschellekens/borb) ⭐ 3,570 | 🐛 10 | 🌐 Python | 📅 2026-08-26 ![](https://img.shields.io/github/stars/jorisschellekens/borb.svg?style=social) - is a pure python library to read, write and manipulate PDF documents. It represents a PDF document as a JSON-like datastructure of nested lists, dictionaries and primitives (numbers, string, booleans, etc).
 6. [deepdoctection](https://github.com/deepdoctection/deepdoctection) ⭐ 3,257 | 🐛 9 | 🌐 Python | 📅 2026-09-02 ![](https://img.shields.io/github/stars/deepdoctection/deepdoctection?style=social) **deep**doctection is a Python library that orchestrates document extraction and document layout analysis tasks for images and pdf documents using deep learning models. It does not implement models but enables you to build pipelines using highly acknowledged libraries for object detection, OCR and selected NLP tasks and provides an integrated framework for fine-tuning, evaluating and running models.
-7. [PDFBox](https://github.com/apache/pdfbox) ⭐ 3,111 | 🐛 38 | 🌐 Java | 📅 2026-09-04 ![](https://img.shields.io/github/stars/apache/pdfbox.svg?style=social) - The Apache PDFBox library is an open source Java tool for working with PDF documents. This project allows creation of new PDF documents, manipulation of existing documents and the ability to extract content from documents
-8. [PdfPig](https://github.com/UglyToad/PdfPig) ⭐ 2,556 | 🐛 28 | 🌐 C# | 📅 2026-09-04 ![](https://img.shields.io/github/stars/UglyToad/PdfPig.svg?style=social) - This project allows users to read and extract text and other content from PDF files. In addition the library can be used to create simple PDF documents containing text and geometrical shapes. This project aims to port PDFBox to C#
+7. [PDFBox](https://github.com/apache/pdfbox) ⭐ 3,111 | 🐛 39 | 🌐 Java | 📅 2026-09-05 ![](https://img.shields.io/github/stars/apache/pdfbox.svg?style=social) - The Apache PDFBox library is an open source Java tool for working with PDF documents. This project allows creation of new PDF documents, manipulation of existing documents and the ability to extract content from documents
+8. [PdfPig](https://github.com/UglyToad/PdfPig) ⭐ 2,557 | 🐛 28 | 🌐 C# | 📅 2026-09-05 ![](https://img.shields.io/github/stars/UglyToad/PdfPig.svg?style=social) - This project allows users to read and extract text and other content from PDF files. In addition the library can be used to create simple PDF documents containing text and geometrical shapes. This project aims to port PDFBox to C#
 9. [OpenContracts](https://github.com/JSv4/OpenContracts) ⭐ 1,464 | 🐛 26 | 🌐 Python | 📅 2026-09-03 ![](https://img.shields.io/github/stars/JSv4/OpenContracts?style=social) Apache2-licensed, PDF annotating platform for visually-rich documents that preserves the original layout and exports x,y positional data for tokens as well as span starts and stops. Based on PAWLs, but with a Python-based backend and readily deployable on your local machine, company intranet or the web via Docker Compose.
 10. [pawls](https://github.com/allenai/pawls) ⭐ 435 | 🐛 58 | 🌐 Python | 📅 2024-05-13 ![](https://img.shields.io/github/stars/allenai/pawls.svg?style=social) - PDF Annotations with Labels and Structure is software that makes it easy to collect a series of annotations associated with a PDF document
 11. [Tabulo](https://github.com/interviewBubble/Tabulo) ⭐ 197 | 🐛 15 | 🌐 Python | 📅 2022-11-24 ![](https://img.shields.io/github/stars/interviewBubble/Tabulo.svg?style=social) - Table extraction from images
@@ -390,9 +390,9 @@ Red: text block, Blue: figure.
 
 **Domain**
 
-1. <https://github.com/pliang279/awesome-multimodal-ml> ⭐ 6,925 | 🐛 13 | 📅 2024-08-20 ![](https://img.shields.io/github/stars/pliang279/awesome-multimodal-ml.svg?style=social)
-2. <https://github.com/heartexlabs/awesome-data-labeling> ⭐ 4,412 | 🐛 57 | 📅 2024-06-17 ![](https://img.shields.io/github/stars/heartexlabs/awesome-data-labeling.svg?style=social)
-3. <https://github.com/kba/awesome-ocr> ⭐ 3,119 | 🐛 67 | 📅 2024-07-06 ![](https://img.shields.io/github/stars/kba/awesome-ocr.svg?style=social)
+1. <https://github.com/pliang279/awesome-multimodal-ml> ⭐ 6,926 | 🐛 13 | 📅 2024-08-20 ![](https://img.shields.io/github/stars/pliang279/awesome-multimodal-ml.svg?style=social)
+2. <https://github.com/heartexlabs/awesome-data-labeling> ⭐ 4,410 | 🐛 57 | 📅 2024-06-17 ![](https://img.shields.io/github/stars/heartexlabs/awesome-data-labeling.svg?style=social)
+3. <https://github.com/kba/awesome-ocr> ⭐ 3,120 | 🐛 67 | 📅 2024-07-06 ![](https://img.shields.io/github/stars/kba/awesome-ocr.svg?style=social)
 4. <https://github.com/roomylee/awesome-relation-extraction> ⭐ 1,224 | 🐛 3 | 📅 2022-01-27 ![](https://img.shields.io/github/stars/roomylee/awesome-relation-extraction.svg?style=social)
 5. <https://github.com/harpribot/awesome-information-retrieval> ⭐ 1,203 | 🐛 9 | 📅 2023-04-20 ![](https://img.shields.io/github/stars/harpribot/awesome-information-retrieval.svg?style=social)
 6. <https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics> ⭐ 735 | 🐛 0 | 📅 2024-11-05 ![](https://img.shields.io/github/stars/Liquid-Legal-Institute/Legal-Text-Analytics.svg?style=social)
@@ -405,17 +405,17 @@ Red: text block, Blue: figure.
 
 **General AI/DL/ML**
 
-1. <https://github.com/papers-we-love/papers-we-love> ⭐ 109,441 | 🐛 4 | 🌐 Shell | 📅 2026-08-31 ![](https://img.shields.io/github/stars/papers-we-love/papers-we-love.svg?style=social)
-2. <https://github.com/awesomedata/awesome-public-datasets> ⭐ 78,801 | 🐛 157 | 📅 2026-09-03 ![](https://img.shields.io/github/stars/awesomedata/awesome-public-datasets.svg?style=social)
+1. <https://github.com/papers-we-love/papers-we-love> ⭐ 109,466 | 🐛 4 | 🌐 Shell | 📅 2026-08-31 ![](https://img.shields.io/github/stars/papers-we-love/papers-we-love.svg?style=social)
+2. <https://github.com/awesomedata/awesome-public-datasets> ⭐ 78,817 | 🐛 158 | 📅 2026-09-03 ![](https://img.shields.io/github/stars/awesomedata/awesome-public-datasets.svg?style=social)
 3. <https://github.com/eugeneyan/applied-ml> ⭐ 30,110 | 🐛 8 | 📅 2024-07-18 ![](https://img.shields.io/github/stars/eugeneyan/applied-ml.svg?style=social)
-4. <https://github.com/jbhuang0604/awesome-computer-vision#awesome-lists> ⭐ 23,538 | 🐛 92 | 📅 2024-05-17 ![](https://img.shields.io/github/stars/jbhuang0604/awesome-computer-vision.svg?style=social)
-5. <https://github.com/EthicalML/awesome-production-machine-learning> ⭐ 20,891 | 🐛 32 | 📅 2026-09-03 ![](https://img.shields.io/github/stars/EthicalML/awesome-production-machine-learning.svg?style=social)
+4. <https://github.com/jbhuang0604/awesome-computer-vision#awesome-lists> ⭐ 23,537 | 🐛 92 | 📅 2024-05-17 ![](https://img.shields.io/github/stars/jbhuang0604/awesome-computer-vision.svg?style=social)
+5. <https://github.com/EthicalML/awesome-production-machine-learning> ⭐ 20,892 | 🐛 33 | 📅 2026-09-03 ![](https://img.shields.io/github/stars/EthicalML/awesome-production-machine-learning.svg?style=social)
 6. <https://github.com/keon/awesome-nlp> ⭐ 18,965 | 🐛 17 | 📅 2026-08-18 ![](https://img.shields.io/github/stars/keon/awesome-nlp.svg?style=social)
-7. <https://github.com/hibayesian/awesome-automl-papers> ⭐ 4,156 | 🐛 2 | 📅 2024-06-11 ![](https://img.shields.io/github/stars/hibayesian/awesome-automl-papers.svg?style=social)
+7. <https://github.com/hibayesian/awesome-automl-papers> ⭐ 4,155 | 🐛 2 | 📅 2024-06-11 ![](https://img.shields.io/github/stars/hibayesian/awesome-automl-papers.svg?style=social)
 8. <https://github.com/thunlp/PLMpapers> ⭐ 3,358 | 🐛 3 | 📅 2022-11-06 ![](https://img.shields.io/github/stars/thunlp/PLMpapers.svg?style=social)
 9. <https://github.com/BAILOOL/DoYouEvenLearn> ⭐ 1,063 | 🐛 0 | 📅 2025-01-18 ![](https://img.shields.io/github/stars/BAILOOL/DoYouEvenLearn.svg?style=social)
 10. <https://github.com/jsbroks/awesome-dataset-tools> ⭐ 943 | 🐛 7 | 📅 2023-06-09 ![](https://img.shields.io/github/stars/jsbroks/awesome-dataset-tools.svg?style=social)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
