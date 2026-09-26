@@ -111,7 +111,7 @@
                     "open_issues": 94,
                     "owner": "ocrmypdf",
                     "repo": "OCRmyPDF",
-                    "stars": 34874,
+                    "stars": 34878,
                     "topics": [
                       "image-processing",
                       "ocr",
@@ -138,7 +138,7 @@
                     "open_issues": 106,
                     "owner": "jsvine",
                     "repo": "pdfplumber",
-                    "stars": 10778,
+                    "stars": 10777,
                     "topics": [
                       "pdf",
                       "pdf-parsing",
@@ -252,7 +252,7 @@
                     "open_issues": 8,
                     "owner": "deepdoctection",
                     "repo": "deepdoctection",
-                    "stars": 3259,
+                    "stars": 3258,
                     "topics": [
                       "document-ai",
                       "document-image-analysis",
@@ -285,7 +285,7 @@
                     "id": 318103,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-23T05:43:23Z",
+                    "last_commit": "2026-09-26T11:07:45Z",
                     "open_issues": 41,
                     "owner": "apache",
                     "repo": "pdfbox",
@@ -351,7 +351,7 @@
                     "open_issues": 14,
                     "owner": "Open-Source-Legal",
                     "repo": "OpenContracts",
-                    "stars": 1487,
+                    "stars": 1486,
                     "topics": [
                       "agent",
                       "agentic-ai",
@@ -885,10 +885,10 @@
             "language": "Shell",
             "license": null,
             "last_commit": "2026-09-17T00:40:26Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 109985,
+            "stars": 110006,
             "topics": [
               "awesome",
               "computer-science",
@@ -917,7 +917,7 @@
             "open_issues": 161,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79152,
+            "stars": 79164,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -943,7 +943,7 @@
             "open_issues": 12,
             "owner": "eugeneyan",
             "repo": "applied-ml",
-            "stars": 30408,
+            "stars": 30415,
             "topics": [
               "applied-data-science",
               "applied-machine-learning",
@@ -1000,7 +1000,7 @@
             "open_issues": 36,
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20953,
+            "stars": 20954,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1041,7 +1041,7 @@
             "open_issues": 22,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19034,
+            "stars": 19033,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1161,7 +1161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T14:48:00.634Z",
+    "last_updated": "2026-09-26T13:54:43.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Document Understanding (DU) topic",
