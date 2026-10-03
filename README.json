@@ -111,7 +111,7 @@
                     "open_issues": 61,
                     "owner": "ocrmypdf",
                     "repo": "OCRmyPDF",
-                    "stars": 34917,
+                    "stars": 34920,
                     "topics": [
                       "image-processing",
                       "ocr",
@@ -160,10 +160,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-03-13T13:46:54Z",
-                    "open_issues": 237,
+                    "open_issues": 239,
                     "owner": "pdfminer",
                     "repo": "pdfminer.six",
-                    "stars": 7034,
+                    "stars": 7035,
                     "topics": [
                       "parser",
                       "pdf",
@@ -188,7 +188,7 @@
                     "open_issues": 120,
                     "owner": "Layout-Parser",
                     "repo": "layout-parser",
-                    "stars": 5779,
+                    "stars": 5780,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -347,8 +347,8 @@
                     "id": 556553471,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-29T19:22:49Z",
-                    "open_issues": 15,
+                    "last_commit": "2026-10-03T02:06:50Z",
+                    "open_issues": 16,
                     "owner": "Open-Source-Legal",
                     "repo": "OpenContracts",
                     "stars": 1492,
@@ -526,7 +526,7 @@
         {
           "node_type": "item",
           "title": "pliang279/awesome-multimodal-ml",
-          "description": null,
+          "description": "pliang279/awesome-multimodal-ml",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -559,7 +559,7 @@
         {
           "node_type": "item",
           "title": "HumanSignal/awesome-data-labeling",
-          "description": null,
+          "description": "HumanSignal/awesome-data-labeling",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -601,7 +601,7 @@
         {
           "node_type": "item",
           "title": "kba/awesome-ocr",
-          "description": null,
+          "description": "kba/awesome-ocr",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -622,7 +622,7 @@
         {
           "node_type": "item",
           "title": "roomylee/awesome-relation-extraction",
-          "description": null,
+          "description": "roomylee/awesome-relation-extraction",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -662,7 +662,7 @@
         {
           "node_type": "item",
           "title": "harpribot/awesome-information-retrieval",
-          "description": null,
+          "description": "harpribot/awesome-information-retrieval",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -683,7 +683,7 @@
         {
           "node_type": "item",
           "title": "Liquid-Legal-Institute/Legal-Text-Analytics",
-          "description": null,
+          "description": "Liquid-Legal-Institute/Legal-Text-Analytics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -708,7 +708,7 @@
         {
           "node_type": "item",
           "title": "BobLd/DocumentLayoutAnalysis",
-          "description": null,
+          "description": "BobLd/DocumentLayoutAnalysis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -747,7 +747,7 @@
         {
           "node_type": "item",
           "title": "thunlp/LegalPapers",
-          "description": null,
+          "description": "thunlp/LegalPapers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -768,7 +768,7 @@
         {
           "node_type": "item",
           "title": "caufieldjh/awesome-bioie",
-          "description": null,
+          "description": "caufieldjh/awesome-bioie",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -801,7 +801,7 @@
         {
           "node_type": "item",
           "title": "icoxfog417/awesome-financial-nlp",
-          "description": null,
+          "description": "icoxfog417/awesome-financial-nlp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -827,7 +827,7 @@
         {
           "node_type": "item",
           "title": "kaisugi/entity-related-papers",
-          "description": null,
+          "description": "kaisugi/entity-related-papers",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -854,7 +854,7 @@
         {
           "node_type": "item",
           "title": "bikash/DocumentUnderstanding",
-          "description": null,
+          "description": "bikash/DocumentUnderstanding",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -875,7 +875,7 @@
         {
           "node_type": "item",
           "title": "papers-we-love/papers-we-love",
-          "description": null,
+          "description": "papers-we-love/papers-we-love",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -888,7 +888,7 @@
             "open_issues": 4,
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 110168,
+            "stars": 110189,
             "topics": [
               "awesome",
               "computer-science",
@@ -904,7 +904,7 @@
         {
           "node_type": "item",
           "title": "awesomedata/awesome-public-datasets",
-          "description": null,
+          "description": "awesomedata/awesome-public-datasets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -913,11 +913,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-02T15:05:47Z",
+            "last_commit": "2026-10-02T19:47:28Z",
             "open_issues": 161,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79272,
+            "stars": 79277,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -930,7 +930,7 @@
         {
           "node_type": "item",
           "title": "eugeneyan/applied-ml",
-          "description": null,
+          "description": "eugeneyan/applied-ml",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -943,7 +943,7 @@
             "open_issues": 12,
             "owner": "eugeneyan",
             "repo": "applied-ml",
-            "stars": 30476,
+            "stars": 30479,
             "topics": [
               "applied-data-science",
               "applied-machine-learning",
@@ -966,7 +966,7 @@
         {
           "node_type": "item",
           "title": "jbhuang0604/awesome-computer-vision",
-          "description": null,
+          "description": "jbhuang0604/awesome-computer-vision",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -987,7 +987,7 @@
         {
           "node_type": "item",
           "title": "EthicalML/awesome-production-machine-learning",
-          "description": null,
+          "description": "EthicalML/awesome-production-machine-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -996,11 +996,11 @@
             "id": 144863525,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-02T10:16:45Z",
-            "open_issues": 38,
+            "last_commit": "2026-10-03T00:57:02Z",
+            "open_issues": 37,
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20966,
+            "stars": 20967,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1028,7 +1028,7 @@
         {
           "node_type": "item",
           "title": "keon/awesome-nlp",
-          "description": null,
+          "description": "keon/awesome-nlp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1038,10 +1038,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-07T10:42:10Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19048,
+            "stars": 19049,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1058,7 +1058,7 @@
         {
           "node_type": "item",
           "title": "hibayesian/awesome-automl-papers",
-          "description": null,
+          "description": "hibayesian/awesome-automl-papers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1084,7 +1084,7 @@
         {
           "node_type": "item",
           "title": "thunlp/PLMpapers",
-          "description": null,
+          "description": "thunlp/PLMpapers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1105,7 +1105,7 @@
         {
           "node_type": "item",
           "title": "BAILOOL/DoYouEvenLearn",
-          "description": null,
+          "description": "BAILOOL/DoYouEvenLearn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1131,7 +1131,7 @@
         {
           "node_type": "item",
           "title": "jsbroks/awesome-dataset-tools",
-          "description": null,
+          "description": "jsbroks/awesome-dataset-tools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1161,7 +1161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:59:15.225Z",
+    "last_updated": "2026-10-03T04:45:58.743Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Document Understanding (DU) topic",
