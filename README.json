@@ -108,10 +108,10 @@
                     "language": "Python",
                     "license": "MPL-2.0",
                     "last_commit": "2026-10-25T07:47:57Z",
-                    "open_issues": 70,
+                    "open_issues": 71,
                     "owner": "ocrmypdf",
                     "repo": "OCRmyPDF",
-                    "stars": 35235,
+                    "stars": 35242,
                     "topics": [
                       "image-processing",
                       "ocr",
@@ -138,7 +138,7 @@
                     "open_issues": 129,
                     "owner": "jsvine",
                     "repo": "pdfplumber",
-                    "stars": 10872,
+                    "stars": 10875,
                     "topics": [
                       "pdf",
                       "pdf-parsing",
@@ -252,7 +252,7 @@
                     "open_issues": 8,
                     "owner": "deepdoctection",
                     "repo": "deepdoctection",
-                    "stars": 3267,
+                    "stars": 3268,
                     "topics": [
                       "document-ai",
                       "document-image-analysis",
@@ -285,8 +285,8 @@
                     "id": 318103,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-02T14:06:37Z",
-                    "open_issues": 44,
+                    "last_commit": "2026-11-05T11:53:58Z",
+                    "open_issues": 40,
                     "owner": "apache",
                     "repo": "pdfbox",
                     "stars": 3140,
@@ -312,10 +312,10 @@
                     "language": "C#",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-03T00:25:15Z",
-                    "open_issues": 30,
+                    "open_issues": 33,
                     "owner": "UglyToad",
                     "repo": "PdfPig",
-                    "stars": 2615,
+                    "stars": 2614,
                     "topics": [
                       "alto-xml",
                       "csharp",
@@ -351,7 +351,7 @@
                     "open_issues": 29,
                     "owner": "Open-Source-Legal",
                     "repo": "OpenContracts",
-                    "stars": 1533,
+                    "stars": 1532,
                     "topics": [
                       "agent",
                       "agentic-ai",
@@ -572,7 +572,7 @@
             "open_issues": 59,
             "owner": "HumanSignal",
             "repo": "awesome-data-labeling",
-            "stars": 4439,
+            "stars": 4441,
             "topics": [
               "3d-annotation",
               "annotation",
@@ -611,7 +611,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-07-06T21:02:05Z",
-            "open_issues": 79,
+            "open_issues": 81,
             "owner": "kba",
             "repo": "awesome-ocr",
             "stars": 3127,
@@ -675,7 +675,7 @@
             "open_issues": 10,
             "owner": "harpribot",
             "repo": "awesome-information-retrieval",
-            "stars": 1208,
+            "stars": 1209,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:08.259Z"
@@ -781,7 +781,7 @@
             "open_issues": 8,
             "owner": "caufieldjh",
             "repo": "awesome-bioie",
-            "stars": 470,
+            "stars": 469,
             "topics": [
               "awesome",
               "awesome-list",
@@ -888,7 +888,7 @@
             "open_issues": 4,
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 111174,
+            "stars": 111201,
             "topics": [
               "awesome",
               "computer-science",
@@ -913,11 +913,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-04T17:21:34Z",
+            "last_commit": "2026-11-05T17:32:14Z",
             "open_issues": 167,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79947,
+            "stars": 79957,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -943,7 +943,7 @@
             "open_issues": 12,
             "owner": "eugeneyan",
             "repo": "applied-ml",
-            "stars": 30788,
+            "stars": 30800,
             "topics": [
               "applied-data-science",
               "applied-machine-learning",
@@ -1000,7 +1000,7 @@
             "open_issues": 44,
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 21069,
+            "stars": 21074,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1041,7 +1041,7 @@
             "open_issues": 9,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19129,
+            "stars": 19130,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1118,7 +1118,7 @@
             "open_issues": 0,
             "owner": "BAILOOL",
             "repo": "DoYouEvenLearn",
-            "stars": 1064,
+            "stars": 1065,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -1161,7 +1161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T17:36:38.927Z",
+    "last_updated": "2026-11-05T17:42:11.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Document Understanding (DU) topic",
